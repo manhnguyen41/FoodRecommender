@@ -1,0 +1,109 @@
+{
+	"info": {
+		"_postman_id": "food-recommendation-api",
+		"name": "Food Recommendation API",
+		"description": "Collection để test Food Recommendation API với 3 chức năng chính: tạo thực đơn ngày, thực đơn tuần và thay thế món ăn",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Daily Meal Plan",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"favorite_ingredients\": [],\n    \"not_favorite_ingredients\": [],\n    \"allergy_ingredients\": [],\n    \"favorite_recipes\": [],\n    \"not_favorite_recipes\": [],\n    \"diet_mode\": \"normal\",\n    \"serving_size\": 2,\n    \"date\": \"\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/api/daily-meal",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"daily-meal"
+					]
+				},
+				"description": "Tạo thực đơn cho 1 ngày"
+			},
+			"response": []
+		},
+		{
+			"name": "Weekly Meal Plan",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"favorite_ingredients\": [],\n    \"not_favorite_ingredients\": [],\n    \"allergy_ingredients\": [],\n    \"favorite_recipes\": [],\n    \"not_favorite_recipes\": [],\n    \"diet_mode\": \"normal\",\n    \"serving_size\": 2,\n    \"start_date\": \"\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/api/weekly-meal",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"weekly-meal"
+					]
+				},
+				"description": "Tạo thực đơn cho 1 tuần"
+			},
+			"response": []
+		},
+		{
+			"name": "Replace Recipe",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"daily_plan\": {\n        \"date\": 0,\n        \"meals\": [\n            {\n                \"mealTypeId\": \"\",\n                \"mapRecipe\": {\n                    \"món chính\": [],\n                    \"món phụ\": [],\n                    \"món canh\": [],\n                    \"món tráng miệng\": []\n                }\n            }\n        ]\n    },\n    \"meal_type\": \"\",\n    \"recipe_id\": \"\",\n    \"replacement_reason\": \"\",\n    \"favorite_ingredients\": [],\n    \"not_favorite_ingredients\": [],\n    \"allergy_ingredients\": [],\n    \"favorite_recipes\": [],\n    \"not_favorite_recipes\": [],\n    \"diet_mode\": \"normal\",\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/api/replace-recipe",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"replace-recipe"
+					]
+				},
+				"description": "Thay thế món ăn trong daily plan"
+			},
+			"response": []
+		}
+	]
+}

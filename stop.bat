@@ -1,0 +1,3 @@
+@echo off
+echo Stopping API...
+docker-compose down

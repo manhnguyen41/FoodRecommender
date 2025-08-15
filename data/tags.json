@@ -1,0 +1,1123 @@
+[
+  {
+    "tag_id": "d5889293-29b0-435d-bae8-bc01b74b9bb2",
+    "name": "Thực phầm giàu cholesterol",
+    "description": "",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "e93f09ca-da1b-456f-b767-c3d56e6b1284",
+    "name": "Đạm động vật",
+    "description": "Thịt, cá, trứng, sữa và một số loại côn trùng ăn được",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "9731c8a9-776f-4dc2-ae2c-5ee10f3c2a7b",
+    "name": "Chất béo bão hoà",
+    "description": "mỡ heo, mỡ bò, mỡ gà, da gà, da vịt, tim, gan, lòng, mề, bơ động vật, phô mai béo, bơ thực vật công nghiệp, bim bim, khoai tây chiên, bánh quy, bánh ngọt công nghiệp, mì gói, pizza đông lạnh, xúc xích",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "de609844-d512-4fbf-9098-0b6b9bda6bc3",
+    "name": "Phụ gia và hương liệu nhân tạo",
+    "description": "bánh kẹo công nghiệp, nước ngọt, nước trái cây đóng chai, mì gói, cháo ăn liền, bim bim, đồ hộp, sữa đặc, phô mai chế biến, trà sữa, kem, tương ớt, sốt mayonnaise, hạt nêm, dầu hào, nước tương",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "23ffb7dd-966d-4e15-8a34-5df1b8d35772",
+    "name": "Rau ít tinh bột",
+    "description": "cải ngọt, cải bẹ xanh, cải thìa, cải bó xôi, xà lách, cải xoăn, súp lơ, măng tây, dưa leo, cà chua, ớt chuông, cà tím, cần tây, rau muống, rau mồng tơi, rau dền, rau diếp cá, tía tô, húng quế",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "478425bc-e7ef-4583-9664-43364d22fd3b",
+    "name": "Đậu nhiều tinh bột",
+    "description": "đậu đen, đậu đỏ, đậu xanh, đậu trắng, đậu gà, đậu lăng, đậu Hà Lan ",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "2223c905-0bd4-4bcd-82a7-a21a318be4ea",
+    "name": "bánh",
+    "description": "Các món có từ “bánh” trong tên gọi, thường được làm từ bột (gạo, mì, nếp...). Có thể là món ngọt hoặc mặn, chế biến bằng cách hấp, luộc, chiên, nướng.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "3043d166-351e-4b96-8a9b-574259a72a2c",
+    "name": "Cá béo",
+    "description": "cá hồi, cá thu, cá mòi, cá trích, cá ngừ, cá nục, cá basa",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "4eac7041-d531-431a-946c-d220b659fede",
+    "name": "thạch",
+    "description": "Các món có từ “thạch” trong tên, thường là món tráng miệng có kết cấu mềm, mát, làm từ bột rau câu, gelatin, hoặc nguyên liệu tương tự.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "537bb643-2bea-419d-816f-899b1eee71a8",
+    "name": "chè",
+    "description": "Món tráng miệng ngọt, có nước hoặc sệt. Tên món thường bắt đầu bằng “chè” và dùng các nguyên liệu như đậu, khoai, trân châu, nước cốt dừa...",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "eb7e5e78-9016-4612-a06a-a0c8b7c0c586",
+    "name": "kem",
+    "description": "Món lạnh có từ “kem” trong tên. Thường là món tráng miệng ngọt, đông lạnh, làm từ sữa, trái cây, nước cốt dừa...",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "691f2205-10e6-4fe2-acd1-08d16b19979e",
+    "name": "muối chua",
+    "description": "Các món được chế biến bằng cách muối lên men như dưa cải, củ kiệu, cà muối… Có vị chua nhẹ, dùng để ăn kèm với món chính.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+    "name": "ăn sống",
+    "description": "Các món không qua chế biến nhiệt hoặc chỉ sơ chế như gỏi, sashimi, salad… Thường tươi, thanh mát, dùng với nước chấm hoặc sốt trộn.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "0539a289-f686-4d77-a166-734e78a9c86b",
+    "name": "Món ăn từ gạo",
+    "description": "",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "cc0d75a0-dd6a-4d5b-aef5-76922f71a936",
+    "name": "cháo",
+    "description": "Món ăn có từ “cháo” trong tên. Thường là món mềm, lỏng, dễ ăn, thích hợp với người bệnh, trẻ nhỏ hoặc bữa sáng. Làm từ gạo hoặc các loại hạt khác.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "f377743e-fee6-4d59-aa37-aed5d738a3c3",
+    "name": "lẩu",
+    "description": "Các món có từ “lẩu” trong tên, ăn cùng nước dùng sôi ngay tại bàn. Có thể gồm nhiều nguyên liệu nhúng như rau, thịt, hải sản, nấm...",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "831b476c-421a-4094-b5fc-c695ad513d2e",
+    "name": "súp",
+    "description": "Món ăn dạng lỏng, thường nấu từ nước dùng kết hợp với rau củ, thịt, cá hoặc hải sản.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
+    "name": "canh",
+    "description": "Món nước truyền thống của người Việt, dùng kèm cơm, thường nấu với rau củ và thịt.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "7052a526-e4bb-4739-ad3a-bd4bb18ddf99",
+    "name": "trộn",
+    "description": "Món ăn kết hợp nhiều nguyên liệu, thường không qua nấu chín hoặc chỉ sơ chế nhẹ, nêm gia vị sau cùng.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "e830bc3e-3a30-490e-986c-2df35ddac7d0",
+    "name": "hầm",
+    "description": "Món ăn được nấu lâu trên lửa nhỏ để nguyên liệu mềm nhừ, thấm vị.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "90798fe5-95e2-4f60-a66e-aab8582d1dbb",
+    "name": "hấp",
+    "description": "Món ăn được làm chín bằng hơi nước, giữ nguyên vị và chất dinh dưỡng của nguyên liệu.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "6087b946-a62e-4414-9183-da567507c37c",
+    "name": "luộc",
+    "description": "Món ăn được nấu chín bằng cách đun sôi trong nước hoặc nước dùng.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "7d00b7d7-e8d4-4b39-aa87-396f6607479b",
+    "name": "kho",
+    "description": "Món ăn được đun nhỏ lửa với nước mắm, đường, tiêu... cho thấm gia vị, thường có màu nâu cánh gián.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "e59aa686-7e05-4829-90ee-968f542cbc1f",
+    "name": "rang",
+    "description": "Món ăn được chế biến bằng cách đảo đều nguyên liệu với lửa vừa đến khi săn lại và thơm.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "f0edd343-cf41-4174-944f-9f76478c0960",
+    "name": "xào",
+    "description": "Món ăn được nấu nhanh trên lửa lớn với ít dầu, thường giữ được độ giòn của rau củ.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "2c504b4c-43ed-4911-8f53-29129b5e9ece",
+    "name": "nướng",
+    "description": "Món ăn được làm chín bằng nhiệt trực tiếp như than, lò nướng hoặc vỉ điện, tạo lớp vỏ cháy xém hấp dẫn.",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "20674b11-4c38-4763-afae-2c8fda861b64",
+    "name": "rán",
+    "description": "Các món ăn được chế biến bằng cách chiên ngập dầu hoặc ít dầu trên chảo, thường có từ “rán” hoặc “chiên” trong tên món. ",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "a9158dd9-fc7f-47a6-b7d1-9f6ab8751fbe",
+    "name": "Thực phẩm giàu protein",
+    "description": "",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "a2d18fe8-b54b-41a6-b9e0-3738c08d5dc8",
+    "name": "Bột dinh dưỡng",
+    "description": "",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "f11daef9-d77a-4a6c-a7fb-1967dacd594d",
+    "name": "Nguyên liệu dược phẩm",
+    "description": "",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "fa14179a-43f6-455e-8de4-156094119ef5",
+    "name": "Thịt đỏ",
+    "description": "bò, heo, cừu, dê, trâu",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "594e2a99-2f60-41d1-9cd9-9e3784491339",
+    "name": "Thức uống dinh dưỡng",
+    "description": "sữa nguyên kem, sữa hạt, nước ép trái cây",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "594f295b-d8ca-43a1-a599-dc104b1d34d8",
+    "name": "người ốm",
+    "description": "Các món phù hợp với người đang hồi phục sức khỏe. Mềm, dễ tiêu, ít dầu mỡ, ít gia vị, thường là cháo, súp, canh rau củ, món hấp.",
+    "type": [
+      1
+    ],
+    "group": [
+      5
+    ]
+  },
+  {
+    "tag_id": "2cf53abc-78eb-4b84-9ca2-7214871a0f37",
+    "name": "Đạm chất lượng cao",
+    "description": "tảo xoắn, diêm mạch, đậu nành, sữa, trứng, hải sản, thịt nạc",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "6d11dd52-21fd-4a3d-a7bc-6a4c79959b6b",
+    "name": "sau sinh",
+    "description": "Món ăn dành cho phụ nữ sau sinh, hỗ trợ phục hồi sức khỏe và lợi sữa. Thường là cháo, canh móng giò, thịt hầm, món nhiều dinh dưỡng.",
+    "type": [
+      1
+    ],
+    "group": [
+      5
+    ]
+  },
+  {
+    "tag_id": "7d69d15a-91a6-48c1-b5e5-53562e8f8de4",
+    "name": "Thực phẩm giàu photpho",
+    "description": "thịt đỏ, hải sản, sữa, ngũ cốc nguyên cám, đậu, hạt & quả hạch, chế biến sẵn",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "037f9f0f-4ff2-44d9-9487-7b6c6415677d",
+    "name": "mang thai",
+    "description": "Món phù hợp cho phụ nữ mang thai, giàu dưỡng chất, bổ sung sắt, canxi, vitamin. Thường là món hấp, luộc, hầm, ít cay và không chứa thực phẩm nguy cơ.",
+    "type": [
+      1
+    ],
+    "group": [
+      5
+    ]
+  },
+  {
+    "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+    "name": "cao tuổi",
+    "description": "Các món phù hợp với người lớn tuổi, dễ nhai, dễ tiêu hóa, ít dầu mỡ, vị nhạt. Thường là cháo, canh rau củ, món hấp, món luộc, thực phẩm mềm.",
+    "type": [
+      1
+    ],
+    "group": [
+      5
+    ]
+  },
+  {
+    "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+    "name": "trẻ em",
+    "description": "Món phù hợp cho trẻ nhỏ, dễ ăn, mềm, ít gia vị, thường có vị ngọt nhẹ hoặc hấp dẫn với hình dạng, màu sắc. Thường là súp, cháo, bánh, sữa.",
+    "type": [
+      1
+    ],
+    "group": [
+      5
+    ]
+  },
+  {
+    "tag_id": "5bb6f5d8-7f0a-4868-9e5e-2a473d12c4da",
+    "name": "Thực phẩm giàu kali",
+    "description": "chuối, cam, dưa gang, dưa lưới, đu đủ, xoài, bơ, sầu riêng, rau muống, cải bó xôi, mồng tơi, khoai tây, khoai lang, cà chua, củ dền, bí đỏ, đậu, hạt & quả hạch, cá, thịt đỏ, sữa",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "a05a7680-e8e2-4daf-842e-279b1a4a08aa",
+    "name": "Thực phẩm dễ tiêu",
+    "description": "cháo, súp, mì gạo, khoai lang, khoai tây luộc, chuối chín, táo hấp, lê chín mềm, đu đủ chín, dưa hấu",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "874e2bb7-047c-49d5-9854-283ab44f26d0",
+    "name": "Nội tạng",
+    "description": "gan, tim, cật, dạ dày (bao tử), lòng, lưỡi, óc, tiết, mề, tràng trứng",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "99a20a73-6aa9-4b2d-95a8-f08c827a1d0b",
+    "name": "món ăn",
+    "description": "",
+    "type": [
+      0
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "7d9ea26b-ef6e-43ae-a035-8dd7bd1bff13",
+    "name": "Đồ uống chứa cồn ",
+    "description": "Các loại  bia, rượu.",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "86b4bdaf-91e5-47fa-9f6b-85ae466e7193",
+    "name": "Thực phẩm giàu natri",
+    "description": "Đồ muối chua, hải sản khô, thịt chế biến sẵn, gia vị mặn, đồ hộp và đồ lên men, phô mai mặn",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+    "name": "bữa phụ",
+    "description": "Các món ăn nhẹ, dùng ngoài ba bữa chính. Thường là các món dễ tiêu, khẩu phần nhỏ như súp, cháo, sữa, bánh mềm.",
+    "type": [
+      1
+    ],
+    "group": [
+      10
+    ]
+  },
+  {
+    "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+    "name": "bữa tối",
+    "description": "Các món thường được dùng vào bữa tối. Ưu tiên món nhẹ, dễ tiêu, ít dầu mỡ. Có thể là món luộc, hấp, canh thanh đạm.",
+    "type": [
+      1
+    ],
+    "group": [
+      10
+    ]
+  },
+  {
+    "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+    "name": "bữa trưa",
+    "description": "Các món phổ biến trong bữa trưa, thường đủ dinh dưỡng với món chính, món phụ và món canh. Có thể gồm cơm, cá, thịt, rau...",
+    "type": [
+      1
+    ],
+    "group": [
+      10
+    ]
+  },
+  {
+    "tag_id": "880260bd-5579-4479-9522-0ff58391c0c8",
+    "name": "bữa sáng",
+    "description": "Các món ăn sáng nhanh gọn, giàu năng lượng như phở, hủ tiếu, bánh mì, cháo, bún... Thường là món tiện lợi, dễ chuẩn bị.",
+    "type": [
+      1
+    ],
+    "group": [
+      10
+    ]
+  },
+  {
+    "tag_id": "4a78b835-e923-44b1-9a3e-67cb9bcd7cc8",
+    "name": "Thực phẩm giàu chất xơ",
+    "description": "Yến mạch, gạo lứt, đậu đen, đậu đỏ, đậu xanh, đậu lăng, đậu nành, đậu hà lan, các loại rau củ khác.",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+    "name": "món tráng miệng",
+    "description": "Các món ăn dùng để kết thúc bữa ăn như chè, bánh ngọt, kem, thạch, trái cây",
+    "type": [
+      1
+    ],
+    "group": [
+      9
+    ]
+  },
+  {
+    "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
+    "name": "món canh",
+    "description": "Các món ăn dạng nước, thường dùng kèm với cơm trong bữa chính. Tên món thường có từ \"canh\" hoặc là món có nước dùng nhẹ như canh rau, canh thịt.",
+    "type": [
+      1
+    ],
+    "group": [
+      9
+    ]
+  },
+  {
+    "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
+    "name": "món phụ",
+    "description": "Các món ăn kèm, thường có khẩu phần nhỏ, không phải là món chính. Tên món thường là rau xào, dưa món, kho, luộc...",
+    "type": [
+      1
+    ],
+    "group": [
+      9
+    ]
+  },
+  {
+    "tag_id": "e492c1b6-80a6-4473-9415-2c071d3b022c",
+    "name": "món chính",
+    "description": "Món ăn có vai trò chính trong bữa ăn, thường có nguồn đạm chính như thịt, cá, trứng, hoặc các món mặn đặc trưng.",
+    "type": [
+      1
+    ],
+    "group": [
+      9
+    ]
+  },
+  {
+    "tag_id": "0750df25-80b4-46e6-8e70-ae1ead9931c8",
+    "name": "Thực phẩm giàu collagen",
+    "description": "Da động vật (heo, gà, cá), chân gà/chân giò, hải sâm, sụn, gelatin.\n\n\n\n\n\n\n",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "49e3bb13-3db1-466b-b649-f0fe2e9eefad",
+    "name": "miền Bắc",
+    "description": "Món ăn đặc trưng của miền Bắc Việt Nam, có vị thanh đạm, nhẹ nhàng.",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "1649c1e9-f1c3-46b8-8f85-0492ce5456dd",
+    "name": "miền Trung",
+    "description": "Món ăn đặc trưng của miền Trung với hương vị đậm đà, cay nồng",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "ec868284-a4da-437e-985d-ee4cbe518e76",
+    "name": "miền Nam",
+    "description": "Món ăn miền Nam thường có vị ngọt, béo, phong phú nguyên liệu như nước cốt dừa, mắm.",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "2ed00d5d-4b63-4d04-b8f1-67b6c5328812",
+    "name": "Thực phẩm giàu sắt",
+    "description": "Gan (gan bò, gan gà, gan lợn), tim, thận, lưỡi (các loại nội tạng động vật), thịt đỏ (bò, dê, cừu), thịt nạc heo, thịt gà, vịt (nhất là phần đùi, cánh), cá mòi, cá ngừ, cá hồi, cá thu, hàu, trai, sò, nghêu, ếch, Đậu đỏ (đậu thận đỏ), đậu xanh, đỗ xanh, đậu nành, đậu lăng, hạt bí, hạt vừng (mè), hạt chia, hạt hướng dương, hạt điều, hạnh nhân, rau lá xanh đậm (rau muống, cải bó xôi, rau dền, rau ngót), mộc nhĩ (nấm mèo khô), nấm hương khô, ngũ cốc nguyên cám, khoai lang, mía",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "2729a483-7c31-409e-aad4-96ab243c8638",
+    "name": "món Âu",
+    "description": "Các món ăn đặc trưng của ẩm thực phương Tây như Pháp, Ý, Tây Ban Nha, Đức… thường sử dụng nguyên liệu như bơ, phô mai, thịt nguội và các loại sốt đậm vị.",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "0ae05485-dd0a-4c99-81ed-82bb878db651",
+    "name": "món Trung",
+    "description": "Các món ăn đặc trưng của ẩm thực Trung Quốc",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "8be23652-5f90-4836-bdf5-778da3c92992",
+    "name": "món Hàn",
+    "description": "Các món ăn Hàn Quốc như kimchi, thịt nướng, tokbokki, cơm trộn bibimbap",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+    "name": "món Việt",
+    "description": "Các món ăn truyền thống Việt Nam, đại diện cho nền ẩm thực phong phú ba miền.",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "7dc7bec0-d28d-4a3b-9252-a2d250b8a9d2",
+    "name": "món Nhật",
+    "description": "Các món ăn đến từ Nhật Bản như sushi, sashimi, mì ramen, tempura",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "534438ff-3c72-4558-8dfa-d43b1a798eca",
+    "name": "món Thái",
+    "description": "Món ăn đặc trưng của ẩm thực Thái Lan với vị cay, chua, mặn đặc trưng như tom yum, pad Thái",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "4a82e0ff-ecf8-4c8f-93ad-fca7c0125530",
+    "name": "Món Ấn",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "78b37a2c-1213-476b-a7c1-cfaf9ca2e226",
+    "name": "sấy khô",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "9fe22ef1-fe9b-45fe-8980-52aadd00cd91",
+    "name": "Sốt",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "80a73ea8-e728-4eff-9d92-4a9efcdfa8a9",
+    "name": "ngâm",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": [
+      7
+    ]
+  },
+  {
+    "tag_id": "0cc19b7f-93d4-4985-ab0d-fa7d42762188",
+    "name": "món Á",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": [
+      6
+    ]
+  },
+  {
+    "tag_id": "f20d3904-4f19-4416-b9e1-c121ac724f0c",
+    "name": "Thực phẩm giàu magie",
+    "description": "Hạt bí, hạt chia, hạnh nhân, hạt điều, đậu đen, đậu đỏ, đậu nành, rau dền, rau bina (cải bó xôi), bơ (avocado), chuối chín, yến mạch, gạo lứt, lúa mạch, socola đen (từ 70% cacao trở lên), cá hồi, sữa đậu nành.",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "6b028274-73ff-4dda-9cd9-57e13ddcdfe5",
+    "name": "Thực phẩm giàu canxi ",
+    "description": "Sữa, phô mai, sữa chua, cá mòi, cá hồi còn xương, tôm, cua, hến, trứng, đậu phụ, đậu nành, sữa đậu nành, rau dền, rau cải xoăn, cải bó xôi, cải thìa, hạnh nhân, hạt chia, mè (vừng), rong biển, yến mạch, bánh mì nguyên cám, nước cam",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "8dfa4e5d-0bb5-42ba-b21c-feb514f6daee",
+    "name": "Rim",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "958e889e-3ffe-4e7e-842d-94d1bb695189",
+    "name": "Đồ cay nóng",
+    "description": "Ớt, tiêu, gừng, tỏi, sa tế, mù tạt, gia vị kích thích (cà ri, hạt tiêu Tứ Xuyên...)",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "e9370e15-1a1b-4ca5-8efe-102e238b56f5",
+    "name": "món chay",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "452b11ea-20ba-4c12-b4e2-7147a83d2890",
+    "name": "Thực phẩm giàu kẽm",
+    "description": "",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "3f02f0ec-e79b-4609-a557-535f6c99367d",
+    "name": "rim",
+    "description": "",
+    "type": [
+      1
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "06da8dac-ac05-4fdc-89df-c638d9f5b685",
+    "name": "Thực phẩm giàu vitamin C",
+    "description": "",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "44d2ae80-d6fc-41cf-a0fc-5ebb1ad8f47e",
+    "name": "Đồ chua",
+    "description": "Xoài non, cóc non, sấu, me chua, chanh, quất, đồ chua lên men / muối chua.",
+    "type": [
+      0,
+      2
+    ],
+    "group": [
+      0
+    ]
+  },
+  {
+    "tag_id": "0b173832-3fc8-4b4e-9d51-1bee86630356",
+    "name": "Thịt",
+    "description": "thịt heo, bò, gà, vịt, dê, cừu,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "26623a58-1bcb-4025-8efa-61c62d2093da",
+    "name": "Trái cây ít kali",
+    "description": "táo, lê, nho, dâu tây, việt quất, mận, dứa, dưa hấu, ổi",
+    "type": [
+      2
+    ],
+    "group": [
+      4
+    ]
+  },
+  {
+    "tag_id": "00d3da25-ff31-41a8-bf00-4453a8b42a19",
+    "name": "Hải sản",
+    "description": "tôm, cua, cá, mực, bạch tuộc, sò, nghêu,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "5bcb1b44-cb2b-4da2-a907-0b4fa2311d3f",
+    "name": "Rau củ",
+    "description": "rau lá (rau muống, cải, xà lách...), củ (khoai, cà rốt, củ cải...), quả (cà chua, bí đỏ, đậu bắp,...)",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "34df67eb-aa6e-4481-ad5f-8c8103602949",
+    "name": "Nấm",
+    "description": "Nấm các loại",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "48278337-4ced-4241-acd2-d6d51be292c0",
+    "name": "Trái cây",
+    "description": "xoài, chuối, cam, táo, dưa hấu,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "982d48cd-cb1a-4c92-a59f-b6005a15148a",
+    "name": "Hạt & Quả Hạch",
+    "description": "đậu hũ, đậu xanh, đậu đen, mè, hạt điều, hạnh nhân, hạt điều, óc chó, hạt bí, hạt hướng dương, hạt lanh, hạt chia, sữa hạt",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "53a51001-19cf-4c0f-a10c-d352525b396e",
+    "name": "Gia vị",
+    "description": "hành, tỏi, ớt, gừng, sả, lá chanh, rau răm,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "df8617a6-6f7d-4a21-8b95-745a6ef074f4",
+    "name": "Gạo & Mì",
+    "description": "gạo, nếp, bún tươi, bún khô, mì trứng, miến,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "294a9d19-b953-45e1-8eb2-64380fdc8a37",
+    "name": "Trứng",
+    "description": "trứng gà, vịt",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "90ace5d9-08e8-4e90-a977-d1e38d40d403",
+    "name": "Sữa",
+    "description": "sữa tươi, sữa đặc, sữa nguyên kem, phô mai, váng sữa, sữa chua",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "ee9bc66d-b13a-4ff5-af1e-f8298a07b12f",
+    "name": "Đồ khô",
+    "description": "cá khô, mực khô, hạt nêm, mì gói,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "e740d63f-0497-40b5-b69b-8a7422595e9e",
+    "name": "Đông lạnh",
+    "description": "chả giò, hải sản đông lạnh, thực phẩm sơ chế sẵn,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "fe6421e0-e1ef-449a-8b2a-da5dcf1a2b6c",
+    "name": "Đồ uống",
+    "description": "nước suối, nước ép, trà, cà phê,...",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "d65d2616-2c0a-454f-b382-42a549d57cad",
+    "name": "Rau lá xanh",
+    "description": "rau muống, rau cải (cải ngọt, cải thìa, cải bẹ xanh, cải xoong, cải cúc), rau dền, rau mồng tơi, rau ngót, rau lang, rau bina (rau chân vịt), xà lách, rau diếp cá, tía tô, húng quế, húng lủi",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "fb9ede72-87b0-4a66-b2f3-dc15a5820d1e",
+    "name": "Rau củ ít kali",
+    "description": "bắp cải, su su, dưa chuột, củ cải trắng, bí đỏ, bí xanh, cà rốt, mướp, cải ngọt, cải thìa, xà lách, rau diếp xoăn, hành tây, hành lá",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "176d7a52-8c3c-4458-9466-dbea9e79770d",
+    "name": "Trái cây ít đường",
+    "description": "dâu tây, việt quất, mâm xôi, mận, táo xanh, bưởi, thanh long, lê, chanh, chanh dây, dưa leo, cà chua",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "1fd79685-73a6-490d-9697-1539df79ca11",
+    "name": "Trái cây nhiều đường",
+    "description": "chuối chín, xoài, nhãn, vải, sầu riêng, mít, na, hồng xiêm, nho, dứa, dưa hấu",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "1de966f3-d6f5-4f02-a54b-e13d99d675aa",
+    "name": "Ngũ cốc nguyên cám",
+    "description": "gạo lứt, yến mạch, lúa mì nguyên cám, hạt diêm mạch, lúa mạch nguyên hạt, ngô nguyên hạt, hạt kê, hạt lúa mạch đen",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "3aee091d-9c57-40a1-b9e6-2e8fb0054a52",
+    "name": "Chất đạm lành mạnh",
+    "description": "ức gà, thịt bò nạc, thịt heo nạc, cá hồi, cá thu, cá mòi, trứng, tôm, mực, sò, nghêu, đậu phụ, đậu nành, sữa đậu nành, đậu lăng, đậu đen, đậu đỏ, đậu xanh, hạt chia, hạt bí, hạnh nhân, yến mạch, sữa ít béo, sữa chua không đường",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "10ef751a-8980-42b7-b70c-bcc694435b42",
+    "name": "Chất béo lành mạnh",
+    "description": "dầu ô liu, dầu hạt cải, dầu mè, dầu bơ, óc chó, hạnh nhân, hạt điều, hạt chia, hạt lanh, hạt bí, cá hồi, cá thu, cá mòi, cá trích, quả bơ, dừa, dầu dừa, bơ đậu phộng, bơ hạnh nhân",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "b10483a7-9e02-4fb9-ae6c-1487c43f9350",
+    "name": "Đạm nạc",
+    "description": "ức gà không da, thịt heo thăn, thịt nạc vai, nạc dăm, thịt bò nạc, cá rô phi, cá hồi, cá basa phi lê, cá thu, lòng trắng trứng, sữa tươi tách béo, sữa chua không đường, đậu phụ",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "41359a6d-c877-44f4-8066-a9a97968a623",
+    "name": "Đạm thực vật",
+    "description": "đậu, ngũ cốc nguyên cám, hạt và quả hạch, rau lá xanh, tảo xoắn",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "8f79314a-8a0c-411c-8248-ad538203941c",
+    "name": "Dầu thực vật",
+    "description": "dầu ô liu, dầu dừa, dầu bơ, dầu mè, dầu hạt lanh, dầu hạt óc chó, dầu hạt cải, dầu hạt hướng dương",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "0e6c510a-cb60-47aa-919f-fa2438fc865f",
+    "name": "Gia vị tự nhiên",
+    "description": "muối biển tự nhiên, muối hồng Himalaya, tiêu đen, tiêu xanh, tỏi, hành, gừng, nghệ, ớt, chanh, giấm táo, giấm gạo, húng quế, tía tô, rau răm, thì là, bạc hà, lá nguyệt quế, quế, hồi, đinh hương, mè (vừng), nước mắm nguyên chất",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "416fcd81-4ced-4a74-bb56-de33182c4529",
+    "name": "Chế biến sẵn",
+    "description": "xúc xích, lạp xưởng, thịt nguội, chà bông, gà rán, khoai tây chiên, hamburger, pizza, mì gói, phở ăn liền, cháo ăn liền, cá hộp, thịt hộp, trái cây đóng hộp, khoai tây chiên, bánh quy đóng gói, bim bim, bánh mì sandwich trắng, bánh ngọt công nghiệp, nước ngọt đóng chai, nước tăng lực, trà sữa",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "d9472220-16d1-4ba5-927b-af9065b0fb23",
+    "name": "Đường tinh luyện",
+    "description": "đường trắng, đường vàng, đường kính, siro, bánh kẹo, nước ngọt, sữa đặc, mứt, kem, trà sữa, tương ớt, sốt mayonnaise, sốt salad đóng chai",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "f7c457c5-0d78-47bc-881c-2685cac851be",
+    "name": "Tinh bột tinh luyện",
+    "description": "gạo trắng, bánh mì trắng, sandwich trắng, bún, phở, miến trắng, bánh ngọt, bánh quy công nghiệp, mì ăn liền, nui trắng, bánh tráng, bánh đa trắng",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "63b2016d-4527-40c9-ba92-1178b13351ef",
+    "name": "Tinh bột phức hợp",
+    "description": "ngũ cốc nguyên hạt, khoai, đậu, ngô, bún gạo lứt, mì lúa mì nguyên cám",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "0cc701b7-0532-45a0-9d96-04395230e869",
+    "name": "Không gluten",
+    "description": "bánh mì trắng, mì ống, mì sợi, mì udon, bánh quy, bánh ngọt, pizza, bánh mì sandwich, bia, ngũ cốc, bánh bao, há cảo, bánh xèo, bánh canh bột mì, bột chiên xù, bột mì chiên giòn, bột mì, lúa mì, lúa mạch, lúa mạch đen",
+    "type": [
+      2
+    ],
+    "group": []
+  },
+  {
+    "tag_id": "500d7e2e-e023-4b6f-8572-fdde4d325b0c",
+    "name": "Bữa Đêm",
+    "description": "Bữa đêm",
+    "type": [
+      0
+    ],
+    "group": [
+      0
+    ]
+  }
+]

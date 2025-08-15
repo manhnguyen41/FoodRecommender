@@ -1,0 +1,3 @@
+@echo off
+echo Building and starting API...
+docker-compose up --build
