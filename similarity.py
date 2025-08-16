@@ -209,10 +209,10 @@ def get_recipe_similarity_matrix(model, tokenizer):
 
 def get_ingredient_similarity_matrix(model, tokenizer):
     df, ingredients = load_data("data/ingredients.json")
-    X, ing_name_to_ing_id, all_ingredients = create_ingredient_similarity_matrix(ingredients, model, tokenizer, use_cache=True)
+    X, ing_name_to_ing_id, all_ingredients, all_ingredients_id = create_ingredient_similarity_matrix(ingredients, model, tokenizer, use_cache=True)
     return X, ing_name_to_ing_id, all_ingredients, all_ingredients_id
 
 def get_tag_similarity_matrix(model, tokenizer):
     df, tags = load_data("data/tags.json")
-    X, tag_name_to_tag_id, all_tags = create_tag_similarity_matrix(tags, model, tokenizer, use_cache=True)
+    X, tag_name_to_tag_id, all_tags, all_tags_id = create_tag_similarity_matrix(tags, model, tokenizer, use_cache=True)
     return X, tag_name_to_tag_id, all_tags, all_tags_id

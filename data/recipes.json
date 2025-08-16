@@ -2702,85 +2702,6 @@
     ]
   },
   {
-    "id": "0d5e6e7f-1d22-4ce9-af24-9c2424e39a20",
-    "name": "Canh rau muống sấu chua",
-    "description": "Canh rau muống sấu chua là món canh thanh mát, nấu từ rau muống tươi và quả sấu xanh tạo vị chua dịu tự nhiên, thường ăn kèm cơm nóng trong những ngày hè để giải nhiệt và kích thích vị giác.",
-    "images": [],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 15,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "c14df5dd-c015-4af1-a49b-9107a5ac29b9",
-        "name": "Rau muống"
-      },
-      {
-        "ingredient_id": "02eda213-faf8-4968-a0cb-81cb2d55c5d5",
-        "name": "Sấu"
-      },
-      {
-        "ingredient_id": "4829e75a-08f0-4c9c-8bc9-9513f952e4fb",
-        "name": "Mì chính"
-      },
-      {
-        "ingredient_id": "527502ec-c608-428b-8dca-607df6f2ac8e",
-        "name": "Bột canh"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
-        "name": "canh",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
-        "name": "món canh",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "49e3bb13-3db1-466b-b649-f0fe2e9eefad",
-        "name": "miền Bắc",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "canh"
-    ],
-    "recipe_type": [
-      "món canh"
-    ],
-    "meal_type": [
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "dd3be4f0-9c1e-4ef6-8724-f75d38ca9a30",
     "name": "Súp khoai tây bông cải xanh",
     "description": "Súp khoai tây bông cải xanh là món súp sánh mịn, nấu từ khoai tây bùi béo và bông cải xanh giàu dinh dưỡng, thường thêm sữa hoặc kem để tăng độ ngậy, thích hợp dùng nóng trong bữa sáng hoặc khai vị.",
@@ -2975,6 +2896,87 @@
     ],
     "meal_type": [
       "bữa phụ"
+    ]
+  },
+  {
+    "id": "0d5e6e7f-1d22-4ce9-af24-9c2424e39a20",
+    "name": "Canh rau muống sấu chua",
+    "description": "Canh rau muống sấu chua là món canh thanh mát, nấu từ rau muống tươi và quả sấu xanh tạo vị chua dịu tự nhiên, thường ăn kèm cơm nóng trong những ngày hè để giải nhiệt và kích thích vị giác.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-0d5e6e7f-1d22-4ce9-af24-9c2424e39a20-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 15,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "c14df5dd-c015-4af1-a49b-9107a5ac29b9",
+        "name": "Rau muống"
+      },
+      {
+        "ingredient_id": "02eda213-faf8-4968-a0cb-81cb2d55c5d5",
+        "name": "Sấu"
+      },
+      {
+        "ingredient_id": "4829e75a-08f0-4c9c-8bc9-9513f952e4fb",
+        "name": "Mì chính"
+      },
+      {
+        "ingredient_id": "527502ec-c608-428b-8dca-607df6f2ac8e",
+        "name": "Bột canh"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
+        "name": "canh",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
+        "name": "món canh",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "49e3bb13-3db1-466b-b649-f0fe2e9eefad",
+        "name": "miền Bắc",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "canh"
+    ],
+    "recipe_type": [
+      "món canh"
+    ],
+    "meal_type": [
+      "bữa trưa",
+      "bữa tối"
     ]
   },
   {
@@ -5329,7 +5331,7 @@
     "name": "Canh cải ngọt nấu gừng",
     "description": "Canh cải ngọt gừng là món canh thanh đạm, nấu từ cải ngọt tươi và vài lát gừng để tạo hương thơm ấm, vị ngọt tự nhiên, thường dùng nóng để làm ấm bụng và hỗ trợ tiêu hóa.\n",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-3df019bc-f243-439a-bf48-bb5161d3cf58-2"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -5570,70 +5572,6 @@
     ],
     "recipe_type": [
       "món chính"
-    ],
-    "meal_type": [
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
-    "id": "9a45e45b-d133-4ffa-ba58-f66a4a9139ba",
-    "name": "Cải chíp xào tỏi",
-    "description": "Cải chíp xào tỏi là món rau đơn giản, cải chíp tươi xanh được xào nhanh với tỏi băm thơm, giữ độ giòn ngọt tự nhiên, thường ăn kèm cơm nóng hoặc dùng như món rau trong bữa cơm gia đình.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 15,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [],
-    "tags": [
-      {
-        "tag_id": "f0edd343-cf41-4174-944f-9f76478c0960",
-        "name": "xào",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
-        "name": "món phụ",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "xào"
-    ],
-    "recipe_type": [
-      "món phụ"
     ],
     "meal_type": [
       "bữa tối",
@@ -6447,7 +6385,7 @@
     "name": "Cải thìa xào tỏi",
     "description": "Cải thìa xào tỏi là món rau đơn giản, cải chíp tươi xanh được xào nhanh với tỏi băm thơm, giữ độ giòn ngọt tự nhiên, thường ăn kèm cơm nóng hoặc dùng như món rau trong bữa cơm gia đình.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-c3ed8b94-548c-432c-980d-e6dedf2d2254-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -7490,7 +7428,7 @@
     "name": "Rau bí xào tỏi",
     "description": "Rau bí xào tỏi là món rau dân dã, rau bí non được xào nhanh với tỏi băm thơm, giữ độ giòn ngọt và hương vị tươi mát, thường ăn kèm cơm nóng trong bữa cơm gia đình.\n\n",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-79a477fe-2cfa-4016-b28b-089e969f29b3-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -8324,7 +8262,7 @@
     "name": "Dưa muối",
     "description": "Dưa muối là món ăn kèm lên men từ rau cải hoặc các loại rau củ khác, có vị chua mặn đặc trưng, giúp đưa cơm và cân bằng vị béo trong bữa ăn.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-0b380e91-9ff2-4bad-a576-212b321310e5-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -8778,11 +8716,92 @@
     ]
   },
   {
+    "id": "46fd523a-829b-4897-a49f-aa0c24c555f5",
+    "name": "Canh bầu, rau mồng tơi nấu hến",
+    "description": "Canh bầu, rau mồng tơi nấu hến là món canh thanh mát, kết hợp vị ngọt của bầu non, vị xanh mát của mồng tơi và hương thơm ngọt tự nhiên từ thịt hến, thích hợp dùng trong bữa cơm gia đình mùa hè.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/24626346.jpg"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 45,
+    "difficulty": "2",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "f0ca6a84-a6c4-4925-88ff-6f60bc4c7f94",
+        "name": "Hến"
+      },
+      {
+        "ingredient_id": "fc851f6f-af44-4029-a238-4db5cd6ce7fc",
+        "name": "Bầu"
+      },
+      {
+        "ingredient_id": "9d59441a-c0b8-4cc0-bef0-02c53ad50a2e",
+        "name": "Mồng tơi"
+      },
+      {
+        "ingredient_id": "664ea019-6872-44b1-b520-99f0d5821cc6",
+        "name": "Hành tím"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
+        "name": "canh",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
+        "name": "món canh",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "canh"
+    ],
+    "recipe_type": [
+      "món canh"
+    ],
+    "meal_type": [
+      "bữa trưa",
+      "bữa tối"
+    ]
+  },
+  {
     "id": "dde8e2f2-1489-43b3-a127-ca772cd098b0",
     "name": "Canh dưa muối cà chua",
     "description": "Canh dưa muối cà chua là món canh chua thanh, nấu từ dưa muối chua và cà chua chín, tạo vị đậm đà dễ ăn, thường được nấu kèm thịt hoặc xương để tăng độ ngọt nước.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-dde8e2f2-1489-43b3-a127-ca772cd098b0-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -8873,87 +8892,6 @@
     "method": [
       "canh",
       "muối chua"
-    ],
-    "recipe_type": [
-      "món canh"
-    ],
-    "meal_type": [
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
-    "id": "46fd523a-829b-4897-a49f-aa0c24c555f5",
-    "name": "Canh bầu, rau mồng tơi nấu hến",
-    "description": "Canh bầu, rau mồng tơi nấu hến là món canh thanh mát, kết hợp vị ngọt của bầu non, vị xanh mát của mồng tơi và hương thơm ngọt tự nhiên từ thịt hến, thích hợp dùng trong bữa cơm gia đình mùa hè.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24626346.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 45,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "f0ca6a84-a6c4-4925-88ff-6f60bc4c7f94",
-        "name": "Hến"
-      },
-      {
-        "ingredient_id": "fc851f6f-af44-4029-a238-4db5cd6ce7fc",
-        "name": "Bầu"
-      },
-      {
-        "ingredient_id": "9d59441a-c0b8-4cc0-bef0-02c53ad50a2e",
-        "name": "Mồng tơi"
-      },
-      {
-        "ingredient_id": "664ea019-6872-44b1-b520-99f0d5821cc6",
-        "name": "Hành tím"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
-        "name": "canh",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
-        "name": "món canh",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "canh"
     ],
     "recipe_type": [
       "món canh"
@@ -9137,27 +9075,6 @@
         "name": "1 ít ngổ"
       }
     ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
-    "id": "d83c53ac-2b3d-48f6-a7e0-7f270eb30eba",
-    "name": "Canh dưa muối cà chua",
-    "description": "Canh dưa muối cà chua là món canh chua thanh, nấu từ dưa muối chua và cà chua chín, tạo vị đậm đà dễ ăn, thường được nấu kèm thịt hoặc xương để tăng độ ngọt nước.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 15,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [],
     "tags": [],
     "method": [],
     "recipe_type": [],
@@ -9654,56 +9571,6 @@
       {
         "ingredient_id": "8925af3f-9d90-443e-8772-d24ba760c6eb",
         "name": "1/2 muỗng muối"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
-    "id": "bbd9a610-91b6-4d40-b6d3-c50e5d398e09",
-    "name": "Pancake rau bina",
-    "description": "#Cookpadapron2025\nMón này làm nhanh gọn cho bữa sáng lại tốt cho các bé\nCải bó xôi bù tuần 2\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24858778.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1800,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "b7c0573d-10be-493f-b38e-06dea43bfba8",
-        "name": "1 quả trứng gà"
-      },
-      {
-        "ingredient_id": "5a40218b-67b1-42d8-a039-bb0e48688aec",
-        "name": "100 ml sữa tươi"
-      },
-      {
-        "ingredient_id": "6369e1c5-a7a0-4dc6-9b3d-942061dbd77e",
-        "name": "1 nắm tay  baby spinach (rau bina baby)"
-      },
-      {
-        "ingredient_id": "8c122fc0-5308-4c11-8cb8-e1262f1fbce4",
-        "name": "2 muỗng canh bột mì hoặc bột yến mạch"
-      },
-      {
-        "ingredient_id": "9bf3e6d5-304e-4a2c-a6ec-7a42c3facc48",
-        "name": "1 xíu bột nở"
-      },
-      {
-        "ingredient_id": "63e01f76-9e4a-4492-b380-673fd3d1fd87",
-        "name": "1 muỗng canh dầu dừa (optional)"
-      },
-      {
-        "ingredient_id": "908a104e-6d1a-4b37-83a7-2072246a32a5",
-        "name": "Tí xíu muối hồng"
       }
     ],
     "tags": [],
@@ -10414,56 +10281,6 @@
       {
         "ingredient_id": "b209d394-52f3-409e-b136-e3b6647ad656",
         "name": "1-2 lát ớt sừng (trang trí)"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
-    "id": "f747659c-02dc-4e2b-8951-2daeb043abd8",
-    "name": "Trứng chiên thịt và rau củ",
-    "description": "#cookpadapron2025\nMón ăn vét tủ lạnh khi còn dư các loại rau củ\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24621531.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 900,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "e66fea68-11f1-4fcf-b530-5200948a59fb",
-        "name": "100 g thịt nạc vai xay rang"
-      },
-      {
-        "ingredient_id": "955335e1-48bf-4100-80ab-0c28e8a028f5",
-        "name": "1/3 củ  cà rốt"
-      },
-      {
-        "ingredient_id": "bf50184b-9bc7-4a66-830f-3d1ff6786522",
-        "name": "Ít bông cải xanh"
-      },
-      {
-        "ingredient_id": "d5eca744-2623-4600-ba7e-7d15c6785f62",
-        "name": "3 trái trứng gà"
-      },
-      {
-        "ingredient_id": "d9ba0861-1526-461e-982f-c0534f87b94f",
-        "name": "Hành lá"
-      },
-      {
-        "ingredient_id": "26a88e57-8fd8-4407-88f9-54188e80ff48",
-        "name": "Ít phomai mozarella"
-      },
-      {
-        "ingredient_id": "0102c858-e3d8-4a97-9a94-82f64e1f1c1e",
-        "name": "Gia vị"
       }
     ],
     "tags": [],
@@ -11336,80 +11153,6 @@
     ]
   },
   {
-    "id": "1cbd1cd5-33ba-415c-aadb-fd7bb9b31a95",
-    "name": "Tôm cuốn ức gà rau củ",
-    "description": "Món ăn giải ngấy cho mấy ngày mập mạp😅😅😅\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24478231.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 2700,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "60f12d18-992d-4ffd-ba0b-c324a3003cc5",
-        "name": "8 con tôm to"
-      },
-      {
-        "ingredient_id": "9059d77c-9ef2-4be9-9ac4-3ac90df4bce7",
-        "name": "2 cái ức gà to"
-      },
-      {
-        "ingredient_id": "fca3661f-aa3a-429f-8ed7-bdca6b4135ea",
-        "name": "1/2 quả ớt chuông đỏ"
-      },
-      {
-        "ingredient_id": "00ed0dc5-77e0-4ad1-b8b3-89b542527bd2",
-        "name": "1/2 quả ớt chuông vàng"
-      },
-      {
-        "ingredient_id": "5f96692d-4290-4e9c-b92c-3958384c653b",
-        "name": "1 bó xà lách nhỏ"
-      },
-      {
-        "ingredient_id": "497c5d86-1351-442b-89bf-ae897d0dbe30",
-        "name": "8 nhánh hành lá"
-      },
-      {
-        "ingredient_id": "abe6b152-de38-4efc-8ba2-ba8cec27f876",
-        "name": "Nước mắm:"
-      },
-      {
-        "ingredient_id": "9b89a935-e30f-491e-80f6-486a2cf22b84",
-        "name": "2 thìa nước lọc"
-      },
-      {
-        "ingredient_id": "5a7d13d1-59b4-4074-bafe-cf6d256ed853",
-        "name": "1/2 thìa mắm"
-      },
-      {
-        "ingredient_id": "3bf60055-0976-4f3b-8ca1-f489ff8b3e2e",
-        "name": "1 thìa đường"
-      },
-      {
-        "ingredient_id": "6f81364f-9bdb-4a71-af52-e9f015c74d93",
-        "name": "1/4 thìa chanh"
-      },
-      {
-        "ingredient_id": "7cfe4806-2861-458f-914d-2687d18e89ea",
-        "name": "1/2 củ tỏi"
-      },
-      {
-        "ingredient_id": "bc686a4b-27a0-436d-b3f7-b87adbe8a151",
-        "name": "1/4 thìa ớt"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "d76ff662-9e6a-48d5-91d3-7de32334b850",
     "name": "Canh mùng tơi nấm hầu thủ",
     "description": "#Mónchaythườngngày\n\n\nXem thêm",
@@ -11590,44 +11333,6 @@
       {
         "ingredient_id": "4743cd7a-c51c-4b1e-8dad-2be4f20567d0",
         "name": "Gia vị"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
-    "id": "277addc1-3384-4705-9908-b9c395867d45",
-    "name": "Nộm rau diếp cá",
-    "description": "",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/12150405.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 900,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "bb3b3a6d-9552-4b13-b6e5-7189e00409a1",
-        "name": "Rau diếp"
-      },
-      {
-        "ingredient_id": "af89b50f-30bf-4b1a-8ddb-da3a88a35d50",
-        "name": "Chả cá"
-      },
-      {
-        "ingredient_id": "2c40b8cf-9d07-45a2-906f-24b30328cbe0",
-        "name": "Lạc rang"
-      },
-      {
-        "ingredient_id": "65d30602-9602-4848-a73e-7f820edd2d43",
-        "name": "Nước trộn dầu dấm"
       }
     ],
     "tags": [],
@@ -12010,42 +11715,93 @@
     "meal_type": []
   },
   {
-    "id": "81ad6e16-8924-4cf6-853b-df0e5b9bf71e",
-    "name": "Thịt rang nước mắm kèm rau dền luộc",
-    "description": "#Thang10nohong\n\n\nXem thêm",
+    "id": "277addc1-3384-4705-9908-b9c395867d45",
+    "name": "Nộm rau diếp cá",
+    "description": "Món gỏi thanh mát với rau diếp cá tươi giòn, trộn cùng cà rốt, dưa chuột, lạc rang và nước trộn chua ngọt hài hòa. Hương vị đặc trưng của rau diếp cá kết hợp vị bùi của lạc và vị chua ngọt nhẹ, tạo nên món ăn vừa ngon miệng vừa tốt cho sức khỏe.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file-81ad6e16-8924-4cf6-853b-df0e5b9bf71e-1"
+      "https://storage.googleapis.com/abc_food/images/12150405.jpg"
     ],
     "video_urls": [],
     "cost": 0.0,
-    "cooking_time": 120,
-    "difficulty": "2",
+    "cooking_time": 15,
+    "difficulty": "1",
     "average_rating": 0.0,
     "total_reviews": 0,
     "view_count": 0,
     "preping_time": 0,
     "ingredients": [
       {
-        "ingredient_id": "359f691f-9bdc-456e-8baa-bfd2db9e90ca",
-        "name": "1/2 bó rau dền"
+        "ingredient_id": "a0ba7dc7-2105-4de9-af69-8103de7ed84f",
+        "name": "Diếp cá"
       },
       {
-        "ingredient_id": "cef11c12-f051-4b4a-a908-6e3ef83564b2",
-        "name": "300 g thịt đùi"
+        "ingredient_id": "0911a9b6-9706-46e4-b24c-fa33ec8aeada",
+        "name": "Chả cá"
       },
       {
-        "ingredient_id": "12d66e51-f50c-45a4-89c7-af61d27606e2",
-        "name": "1 mc tỏi băm"
+        "ingredient_id": "a3900a0a-59d6-40ed-bb2a-c16842f58791",
+        "name": "Lạc rang"
       },
       {
-        "ingredient_id": "8205a6f3-152f-48b7-849a-948c7c8d1041",
-        "name": "Gia vị"
+        "ingredient_id": "e0209324-0b96-410e-a568-c78ae01fc1b7",
+        "name": "Dầu giấm"
       }
     ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
+    "tags": [
+      {
+        "tag_id": "7052a526-e4bb-4739-ad3a-bd4bb18ddf99",
+        "name": "trộn",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
+        "name": "món phụ",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      }
+    ],
+    "method": [
+      "trộn",
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món phụ"
+    ],
+    "meal_type": [
+      "bữa trưa",
+      "bữa tối"
+    ]
   },
   {
     "id": "89cd4769-9b5f-4687-92d2-5166cff2be7e",
@@ -12544,48 +12300,6 @@
     ]
   },
   {
-    "id": "844da0db-c060-4157-aed6-bc49afa0ec14",
-    "name": "Món tráng miệng chay: Nước cốt dừa hạt chia tắc mật ong",
-    "description": "Mọi nguyên liệu trong món này đều tốt cho sức khoẻ nên mình kết hợp thử xem sao! #bepvang\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/10661240.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 600,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "f205f956-9920-4bc5-8ce2-04f2736cabfe",
-        "name": "200 ml nước cốt dừa"
-      },
-      {
-        "ingredient_id": "c1f2243e-7031-4947-9700-a80cb93642df",
-        "name": "1 muỗng canh hạt chia"
-      },
-      {
-        "ingredient_id": "063dd923-3088-4aaa-89f4-ca770e4e5306",
-        "name": "2 muỗng canh mật ong"
-      },
-      {
-        "ingredient_id": "1fb64603-1a2c-4351-85ce-7fc17a37b610",
-        "name": "1 nhúm nhỏ muối, khoảng 1/8 muỗng cà phê muối"
-      },
-      {
-        "ingredient_id": "f81fbd3a-a0eb-4da3-9dba-79d1465128ff",
-        "name": "1 quả tắc"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "48664782-fe36-45cc-bf3e-6b2488b1ab5d",
     "name": "Thạch Chè Hạt Sen Hoa Nhài",
     "description": "Thạch sen hoa nhài có vị ngọt thanh của đường phèn, bùi bùi của hạt sen và hương thơm dịu nhẹ của hoa nhài. Đây là món tráng miệng rất tốt cho sức khỏe, giúp thanh nhiệt và an thần. Hoa nhài sạch nhà trồng, chỉ lấy hoa, bỏ đài để không đắng bạn nhé!\n\n\nXem thêm",
@@ -12678,44 +12392,6 @@
       {
         "ingredient_id": "8371541b-8eea-410b-bfa7-2da048b0a55a",
         "name": "Đường"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
-    "id": "74ee032e-a8a7-4e7f-94a7-6e806c8b5160",
-    "name": "Chè Nha Đam Hạt Sen",
-    "description": "Mùa hè có ly chè nha đam hạt sen thì còn gì bằng. Cách sơ chế nha đam không nhớt, giữ được độ giòn. #cookpadapron2025\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24875510.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1800,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "622d4ebd-4e7b-4c41-8bd3-fbfa208e2c46",
-        "name": "200 gr hạt sen"
-      },
-      {
-        "ingredient_id": "8e393064-4ef8-4c31-90d7-ba5f38c3a478",
-        "name": "1 nhánh nha đam"
-      },
-      {
-        "ingredient_id": "2fa5a075-d534-4f70-97b5-b80b360210e4",
-        "name": "500 ml nước"
-      },
-      {
-        "ingredient_id": "cb7668bf-d288-47d6-a9f4-f674b47fe1ba",
-        "name": "50 gr đường phèn"
       }
     ],
     "tags": [],
@@ -13205,6 +12881,228 @@
       "bữa phụ",
       "bữa tối",
       "bữa trưa"
+    ]
+  },
+  {
+    "id": "844da0db-c060-4157-aed6-bc49afa0ec14",
+    "name": "Nước cốt dừa hạt chia tắc mật ong",
+    "description": "Mọi nguyên liệu trong món này đều tốt cho sức khoẻ nên mình kết hợp thử xem sao!",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/10661240.jpg"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 10,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "110d3e10-cbb1-40f0-9876-78953ae892b3",
+        "name": "Nước cốt dừa"
+      },
+      {
+        "ingredient_id": "5d47cfa7-fa7b-436b-9a44-efa92e04a8e7",
+        "name": "Hạt chia"
+      },
+      {
+        "ingredient_id": "b0d28f50-fd16-43cb-b03e-22c5096aa41f",
+        "name": "Mật ong"
+      },
+      {
+        "ingredient_id": "62413502-3ff1-4422-9056-d28413efe992",
+        "name": "Muối"
+      },
+      {
+        "ingredient_id": "eb71afa3-6636-4309-bbaa-ba579ae6218c",
+        "name": "Quất"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "880260bd-5579-4479-9522-0ff58391c0c8",
+        "name": "bữa sáng",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "537bb643-2bea-419d-816f-899b1eee71a8",
+        "name": "chè",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "880260bd-5579-4479-9522-0ff58391c0c8",
+        "name": "bữa sáng",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      }
+    ],
+    "method": [
+      "chè"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa sáng",
+      "bữa phụ",
+      "bữa tối",
+      "bữa trưa",
+      "bữa sáng"
+    ]
+  },
+  {
+    "id": "74ee032e-a8a7-4e7f-94a7-6e806c8b5160",
+    "name": "Chè nha đam hạt sen",
+    "description": "Mùa hè có ly chè nha đam hạt sen thì còn gì bằng. Cách sơ chế nha đam không nhớt, giữ được độ giòn. ",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/24875510.jpg"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 30,
+    "difficulty": "2",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "26920ed1-b338-4e1d-a4d8-8a911c8f7d1d",
+        "name": "Hạt sen"
+      },
+      {
+        "ingredient_id": "df51f392-13cf-4ec9-a8c1-52a657f35d6b",
+        "name": "Nha đam"
+      },
+      {
+        "ingredient_id": "0af57f65-1aeb-4ba4-a218-5a01137b3c43",
+        "name": "Đường phèn"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "537bb643-2bea-419d-816f-899b1eee71a8",
+        "name": "chè",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "chè"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
+      "bữa trưa",
+      "bữa tối"
     ]
   },
   {
@@ -13995,104 +13893,6 @@
     ]
   },
   {
-    "id": "8ade033b-ddcb-4fe7-8e01-1c43dfd96071",
-    "name": "Chè Lũm Chũm 2 Màu (Chè Trôi Nước Không Nhân)",
-    "description": "Chè lũm chũm\", còn được gọi là chè ỷ hoặc chè ỉ tùy theo vùng miền, là một món chè có nguồn gốc từ người Hoa ở Sóc Trăng. Tên gọi \"lũm chũm\" rất đáng yêu, dùng để chỉ những viên chè tròn nhỏ, được làm từ bột nếp dẻo mềm và ngụp lặn trong nước đường thơm mùi gừng.\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24569467.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1800,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "b2f8be53-8241-4c22-8374-364d855cc314",
-        "name": "200 gr nước lọc"
-      },
-      {
-        "ingredient_id": "83d203f9-f62c-4d66-bbd5-4ce8cb7e9c14",
-        "name": "30 gr đường phèn"
-      },
-      {
-        "ingredient_id": "46451a3b-ee4b-44fc-951e-bd68186e95e9",
-        "name": "1 mẩu gừng"
-      },
-      {
-        "ingredient_id": "34117f9e-4c79-4b11-827f-9b975a4c1599",
-        "name": "3 cái lá dứa"
-      },
-      {
-        "ingredient_id": "6adf3c4e-6473-4094-8fbd-b902b53998ee",
-        "name": "6 muỗng canh nước cốt dừa thắng"
-      },
-      {
-        "ingredient_id": "4cd0abc3-85ee-4961-8e57-c7874a3f57d7",
-        "name": "1 mcf mè rang"
-      },
-      {
-        "ingredient_id": "227f6c69-c5f0-409c-befe-376c0bcbced5",
-        "name": "Viên gấc:"
-      },
-      {
-        "ingredient_id": "b779cd6a-e6a1-45f8-b9a0-815f491f36a7",
-        "name": "50 gr bột nếp"
-      },
-      {
-        "ingredient_id": "4641ebd0-96ea-4cc1-8772-1843c8b8e18f",
-        "name": "1 muỗng cafe thịt gấc"
-      },
-      {
-        "ingredient_id": "db7686f3-e8bc-4fc5-9689-2c15c53e1b6d",
-        "name": "30 ml nước"
-      },
-      {
-        "ingredient_id": "d87a75c8-2b65-4acc-954b-cc1df1ac6608",
-        "name": "Viên lá cẩm:"
-      },
-      {
-        "ingredient_id": "d852073c-ba78-43b0-864b-5164046b3be9",
-        "name": "50 gr bột nếp"
-      },
-      {
-        "ingredient_id": "39ebb44e-3d16-4845-a96a-fdb4c7d75729",
-        "name": "10 ml nước lá cẩm"
-      },
-      {
-        "ingredient_id": "74e0a685-c866-4d80-947f-07a4d68a2422",
-        "name": "20 ml nước"
-      },
-      {
-        "ingredient_id": "90c009f4-4d4a-47d6-a274-05efcaca4ab7",
-        "name": "Nước cốt dừa thắng:"
-      },
-      {
-        "ingredient_id": "30a3c3d5-2b47-438b-b905-77d04f40db39",
-        "name": "50 ml cốt dừa"
-      },
-      {
-        "ingredient_id": "4584f060-6cb7-4d66-b933-de6f0a9835e2",
-        "name": "1 tsp bột bắp"
-      },
-      {
-        "ingredient_id": "4689db99-3d75-400e-b4bf-bcc6c0183f89",
-        "name": "1 tsp đường"
-      },
-      {
-        "ingredient_id": "3eccbd1f-ed98-4136-a511-c639ebd174ac",
-        "name": "1 nhánh lá dứa"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "c839871b-cbcd-4dff-9b22-2a87635a6c70",
     "name": "Mứt RAU CÂU",
     "description": "Là món mứt ngon lạ có trong dịp Tết đến với nhiều màu sắc đẹp mắt ... Lại có độ dai giòn nhiều vị rất hấp dẫn \n#KhoidongbepTet\n\n\nXem thêm",
@@ -14139,47 +13939,9 @@
     "meal_type": []
   },
   {
-    "id": "c426b411-68f4-4ede-979e-f2c13d99ff74",
-    "name": "Chè đậu xanh nha đam",
-    "description": "#GlobalApron2024\n#ngauhungngaysinh\nThử thách tuần này về tháng sinh và đây cũng là tháng sinh nhật của mình, với hai nguyên liệu chính là cá đồng và đậu xanh thì mình chọn đậu xanh. Ban đầu chỉ định nấu chè đậu xanh thôi, nhưng lên sân thượng thấy mấy gốc nha đam lớn lắm rồi vậy là biến tấu thành món chè đậu xanh nha đam, hơi kì công chỗ công đoạn sơ chế nha đam, nhưng bù lại nhai miếng nha đam trong chén chè thật sự giòn và ngon nha.\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24254959.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 5400,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "a985116c-0d9c-46bb-b38e-e4743c0facdc",
-        "name": "200 gram nha đam (tính sau khi sơ chế)"
-      },
-      {
-        "ingredient_id": "89abaa43-97c6-4a02-b87c-dab045db9c23",
-        "name": "1/2 lon đậu xanh nguyên hạt"
-      },
-      {
-        "ingredient_id": "4df74c41-1316-4bbc-b0a7-3bb765089d4e",
-        "name": "200 gram đường phèn"
-      },
-      {
-        "ingredient_id": "fd16280a-f9a1-4ba0-8937-fcbe66caee24",
-        "name": "3 thìa bột sắn dây"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "361ee4ce-2f9b-4821-9a54-6db2909584f8",
     "name": "Pudding sữa, dừa, cà phê",
-    "description": "#Sacdenhuyenbi\n\n\nXem thêm",
+    "description": "Món tráng miệng mềm mịn gồm ba tầng hấp dẫn — lớp sữa béo ngậy, lớp dừa thơm bùi và lớp cà phê đắng nhẹ. Hương vị hòa quyện giữa ngọt thanh, béo thơm và chút đậm đà, tạo cảm giác vừa lạ vừa cuốn hút, thích hợp thưởng thức mát lạnh.",
     "images": [
       "https://storage.googleapis.com/abc_food/images/16706352.jpg"
     ],
@@ -14193,74 +13955,154 @@
     "preping_time": 0,
     "ingredients": [
       {
-        "ingredient_id": "6b497c4c-57b1-4010-9218-b930fd0813be",
-        "name": "Phần pudding sữa:"
+        "ingredient_id": "63fbc693-cadf-41d9-9d0c-ca2d1fad23bc",
+        "name": "Sữa tươi không đường"
       },
       {
-        "ingredient_id": "fd0b8ec4-bf44-4999-b819-6cacf2f3a26c",
-        "name": "600 ml sữa tươi không đường"
+        "ingredient_id": "3a5a6ac7-7f62-449e-bfc8-2cb21a1e5c4d",
+        "name": "Bột bắp"
       },
       {
-        "ingredient_id": "aeed7872-d64e-47bc-8a92-821cb531d1e7",
-        "name": "30 g bột bắp"
+        "ingredient_id": "62413502-3ff1-4422-9056-d28413efe992",
+        "name": "Muối"
       },
       {
-        "ingredient_id": "9065e645-8acc-4e5d-8b99-3b7ad921112a",
-        "name": "1/5 thìa cf muối"
+        "ingredient_id": "20195536-6a42-4b1a-a7a2-af2b28c8643a",
+        "name": "Bơ lạt"
       },
       {
-        "ingredient_id": "bf646ee0-39bd-4033-b490-e24bae73584d",
-        "name": "40-50 g đường"
+        "ingredient_id": "d51aabb2-8e98-414b-b54a-1b0cd67435c8",
+        "name": "Đường"
       },
       {
-        "ingredient_id": "e843f5e7-0394-4358-8cbd-715a42006b4f",
-        "name": "20 g bơ lạt"
+        "ingredient_id": "d8f5eb1d-9f54-49bf-9319-a31537f73053",
+        "name": "Vani"
       },
       {
-        "ingredient_id": "cffa3cea-ef0d-4e17-8f41-8f91a369d238",
-        "name": "1 thìa cf tinh chất vani"
+        "ingredient_id": "110d3e10-cbb1-40f0-9876-78953ae892b3",
+        "name": "Nước cốt dừa"
       },
       {
-        "ingredient_id": "8d7dcd4d-672a-4bbd-b72a-019d3cacca52",
-        "name": "Phần pudding dừa, cà phê:"
-      },
-      {
-        "ingredient_id": "2ce63e5d-7345-4ce1-b245-dd3cbc8a658e",
-        "name": "300 ml cốt dừa"
-      },
-      {
-        "ingredient_id": "89c9329d-21b3-4381-8741-97d864cba80d",
-        "name": "12 g bột bắp"
-      },
-      {
-        "ingredient_id": "05bff5dc-ff2c-4d3f-aad5-d075f9abe665",
-        "name": "15 g bơ"
-      },
-      {
-        "ingredient_id": "77ba6f88-788f-41c1-bfec-b9348df539b2",
-        "name": "40 g đường"
-      },
-      {
-        "ingredient_id": "e153222e-95cc-4ef7-bfb4-6866301b28bf",
-        "name": "30 ml cà phê hòa tan hoặc pha phin đều được"
-      },
-      {
-        "ingredient_id": "40c5e4a3-fb6f-4570-ba5d-0bc46c17b255",
-        "name": "Phần trân châu đường đen"
+        "ingredient_id": "18a5e1c0-5f47-4761-8529-3e3499a8fd12",
+        "name": "Bột cà phê"
       },
       {
         "ingredient_id": "deaa0139-6622-423b-97ed-1ffd9793906d",
         "name": "200 g trân châu cacao (mình mua sẵn nha)"
-      },
-      {
-        "ingredient_id": "97f62e0c-96ce-45b0-a454-3286cab4a1f7",
-        "name": "1 thìa canh đường đen"
       }
     ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
+    "tags": [
+      {
+        "tag_id": "037f9f0f-4ff2-44d9-9487-7b6c6415677d",
+        "name": "mang thai",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "2729a483-7c31-409e-aad4-96ab243c8638",
+        "name": "món Âu",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "6d11dd52-21fd-4a3d-a7bc-6a4c79959b6b",
+        "name": "sau sinh",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "4eac7041-d531-431a-946c-d220b659fede",
+        "name": "thạch",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "037f9f0f-4ff2-44d9-9487-7b6c6415677d",
+        "name": "mang thai",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "6d11dd52-21fd-4a3d-a7bc-6a4c79959b6b",
+        "name": "sau sinh",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "880260bd-5579-4479-9522-0ff58391c0c8",
+        "name": "bữa sáng",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "2729a483-7c31-409e-aad4-96ab243c8638",
+        "name": "món Âu",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "thạch"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
+      "bữa sáng",
+      "bữa trưa",
+      "bữa tối"
+    ]
   },
   {
     "id": "f4298d3b-787d-49ac-9d1c-654eed54c622",
@@ -14351,13 +14193,6 @@
         ]
       },
       {
-        "tag_id": "4eac7041-d531-431a-946c-d220b659fede",
-        "name": "thạch",
-        "group": [
-          7
-        ]
-      },
-      {
         "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
         "name": "món Việt",
         "group": [
@@ -14366,7 +14201,6 @@
       }
     ],
     "method": [
-      "thạch",
       "thạch"
     ],
     "recipe_type": [
@@ -14467,6 +14301,208 @@
     "method": [],
     "recipe_type": [],
     "meal_type": []
+  },
+  {
+    "id": "8ade033b-ddcb-4fe7-8e01-1c43dfd96071",
+    "name": "Chè trôi nước không nhân",
+    "description": "Món chè dân dã với những viên bột nếp tròn mềm, không nhân, nấu trong nước đường gừng ấm thơm. Vị dẻo của bột nếp hòa quyện cùng vị ngọt thanh và hương gừng cay nhẹ, mang đến cảm giác ấm áp và dễ chịu.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/24569467.jpg"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 30,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "b2f8be53-8241-4c22-8374-364d855cc314",
+        "name": "200 gr nước lọc"
+      },
+      {
+        "ingredient_id": "83d203f9-f62c-4d66-bbd5-4ce8cb7e9c14",
+        "name": "30 gr đường phèn"
+      },
+      {
+        "ingredient_id": "46451a3b-ee4b-44fc-951e-bd68186e95e9",
+        "name": "1 mẩu gừng"
+      },
+      {
+        "ingredient_id": "34117f9e-4c79-4b11-827f-9b975a4c1599",
+        "name": "3 cái lá dứa"
+      },
+      {
+        "ingredient_id": "6adf3c4e-6473-4094-8fbd-b902b53998ee",
+        "name": "6 muỗng canh nước cốt dừa thắng"
+      },
+      {
+        "ingredient_id": "4cd0abc3-85ee-4961-8e57-c7874a3f57d7",
+        "name": "1 mcf mè rang"
+      },
+      {
+        "ingredient_id": "227f6c69-c5f0-409c-befe-376c0bcbced5",
+        "name": "Viên gấc:"
+      },
+      {
+        "ingredient_id": "b779cd6a-e6a1-45f8-b9a0-815f491f36a7",
+        "name": "50 gr bột nếp"
+      },
+      {
+        "ingredient_id": "4641ebd0-96ea-4cc1-8772-1843c8b8e18f",
+        "name": "1 muỗng cafe thịt gấc"
+      },
+      {
+        "ingredient_id": "db7686f3-e8bc-4fc5-9689-2c15c53e1b6d",
+        "name": "30 ml nước"
+      },
+      {
+        "ingredient_id": "d87a75c8-2b65-4acc-954b-cc1df1ac6608",
+        "name": "Viên lá cẩm:"
+      },
+      {
+        "ingredient_id": "d852073c-ba78-43b0-864b-5164046b3be9",
+        "name": "50 gr bột nếp"
+      },
+      {
+        "ingredient_id": "39ebb44e-3d16-4845-a96a-fdb4c7d75729",
+        "name": "10 ml nước lá cẩm"
+      },
+      {
+        "ingredient_id": "74e0a685-c866-4d80-947f-07a4d68a2422",
+        "name": "20 ml nước"
+      },
+      {
+        "ingredient_id": "90c009f4-4d4a-47d6-a274-05efcaca4ab7",
+        "name": "Nước cốt dừa thắng:"
+      },
+      {
+        "ingredient_id": "30a3c3d5-2b47-438b-b905-77d04f40db39",
+        "name": "50 ml cốt dừa"
+      },
+      {
+        "ingredient_id": "4584f060-6cb7-4d66-b933-de6f0a9835e2",
+        "name": "1 tsp bột bắp"
+      },
+      {
+        "ingredient_id": "4689db99-3d75-400e-b4bf-bcc6c0183f89",
+        "name": "1 tsp đường"
+      },
+      {
+        "ingredient_id": "3eccbd1f-ed98-4136-a511-c639ebd174ac",
+        "name": "1 nhánh lá dứa"
+      }
+    ],
+    "tags": [],
+    "method": [],
+    "recipe_type": [],
+    "meal_type": []
+  },
+  {
+    "id": "c426b411-68f4-4ede-979e-f2c13d99ff74",
+    "name": "Chè đậu xanh nha đam",
+    "description": "Món chè thanh mát với đậu xanh bùi mềm, kết hợp nha đam giòn sần sật. Nước chè ngọt dịu, thơm nhẹ, giúp giải nhiệt, làm đẹp da và mang lại cảm giác tươi mát khi thưởng thức.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/24254959.jpg"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 90,
+    "difficulty": "2",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "df51f392-13cf-4ec9-a8c1-52a657f35d6b",
+        "name": "Nha đam"
+      },
+      {
+        "ingredient_id": "9f9546c2-a97a-4c01-a785-90fef53d2caa",
+        "name": "Đậu xanh"
+      },
+      {
+        "ingredient_id": "0af57f65-1aeb-4ba4-a218-5a01137b3c43",
+        "name": "Đường phèn"
+      },
+      {
+        "ingredient_id": "de6008b5-be66-4446-b6c5-12f6bfe183d6",
+        "name": "Bột sắn"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "537bb643-2bea-419d-816f-899b1eee71a8",
+        "name": "chè",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "880260bd-5579-4479-9522-0ff58391c0c8",
+        "name": "bữa sáng",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "chè"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
+      "bữa trưa",
+      "bữa sáng",
+      "bữa tối"
+    ]
   },
   {
     "id": "d57519d4-037b-4fee-9ade-1cd336463a2a",
@@ -15001,64 +15037,6 @@
     "meal_type": []
   },
   {
-    "id": "30babb69-2b1b-4ecb-8288-70f01d3585c9",
-    "name": "Chè xoài bột báng thạch rau câu",
-    "description": "#globalcookpadgames2024\n#montrangmieng\nNhà có xoài chín và bột báng sẵn nên mình làm thử chè xoài bột báng kiểu HK nhưng thiếu bưởi. Làm thêm thạch rau câu dẻo ăn chung để có nguyên liệu phù hợp với thử thách này 😅\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/23976946.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 60,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "84f93e65-cce3-440d-8bff-0c39a64ebb01",
-        "name": "1 trái xoài"
-      },
-      {
-        "ingredient_id": "c9b40984-17d0-46ee-a3a1-9af1464e6b48",
-        "name": "1 chén nhỏ bột báng"
-      },
-      {
-        "ingredient_id": "f60f95bf-8e72-4b99-8c8f-eb61df3ae8ba",
-        "name": "1 lon nước cốt dừa nhỏ"
-      },
-      {
-        "ingredient_id": "df1b41b6-c344-48f2-b4d9-49ea3303348f",
-        "name": "1 bịch sữa tươi không đường"
-      },
-      {
-        "ingredient_id": "86711125-fbf9-4af4-81ad-e8c87bdde16b",
-        "name": "1 ít hạt é"
-      },
-      {
-        "ingredient_id": "f5049135-0a90-4d48-98a9-d3456591b0cb",
-        "name": "1 gói thạch rau câu agar agar"
-      },
-      {
-        "ingredient_id": "b7cb355c-af8f-40c1-9760-29e8020d1cf1",
-        "name": "Đường củ cải"
-      },
-      {
-        "ingredient_id": "5d4e56b0-7a57-4c9d-a542-56544bbd770d",
-        "name": "Sữa đặc"
-      },
-      {
-        "ingredient_id": "cd41d730-b437-49fb-864f-cbf50d363c80",
-        "name": "1 cục phô mai (không có cũng đc)"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "135042bd-d0e4-4f04-aa8c-302fc606665c",
     "name": "Chè Thịt Quay",
     "description": "#GlobalCookpadGames2024\n#MonTrangMieng\nChè Huế thì có nhiều món lắm. Món nào cũng ngon. Nhưng ấn tượng nhất vẫn là món Chè Thịt Quay... Sẽ có không ít người lấy làm lạ, không hiểu vì sao một món để ăn mặn như thịt quay mà lại có thể trở thành nguyên liệu của món ăn ngọt là chè...  Ấy vậy mà, đã thử ăn qua một lần là nhớ mãi luôn. Mỗi khi có dịp ra Huế, ai cũng phải thưởng thức qua món Chè Thịt Quay ngồ ngộ này...\n#CheThitQuay\n#HuynhPhatKitChen\n\n\nXem thêm",
@@ -15437,6 +15415,192 @@
     "method": [],
     "recipe_type": [],
     "meal_type": []
+  },
+  {
+    "id": "30babb69-2b1b-4ecb-8288-70f01d3585c9",
+    "name": "Chè xoài bột báng thạch rau câu",
+    "description": "Nhà có xoài chín và bột báng sẵn nên mình làm thử chè xoài bột báng kiểu HK nhưng thiếu bưởi. Làm thêm thạch rau câu dẻo ăn chung để có nguyên liệu phù hợp với thử thách này .\n",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/23976946.jpg"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 60,
+    "difficulty": "2",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "0532d9c5-56ce-4246-af61-6bd035363ad3",
+        "name": "Xoài chín"
+      },
+      {
+        "ingredient_id": "2cf79a19-0352-45bf-91c7-593d0adac6c4",
+        "name": "Bột báng"
+      },
+      {
+        "ingredient_id": "110d3e10-cbb1-40f0-9876-78953ae892b3",
+        "name": "Nước cốt dừa"
+      },
+      {
+        "ingredient_id": "63fbc693-cadf-41d9-9d0c-ca2d1fad23bc",
+        "name": "Sữa tươi không đường"
+      },
+      {
+        "ingredient_id": "b503fd61-cb16-453a-877e-1133230e0f18",
+        "name": "Hạt é"
+      },
+      {
+        "ingredient_id": "4154a408-8a31-4ce6-adc9-6e9efaa065b7",
+        "name": "Bột rau câu"
+      },
+      {
+        "ingredient_id": "d51aabb2-8e98-414b-b54a-1b0cd67435c8",
+        "name": "Đường"
+      },
+      {
+        "ingredient_id": "2c72f2ce-3ac8-4697-8d24-ecec4daabbe8",
+        "name": "Sữa đặc"
+      },
+      {
+        "ingredient_id": "53bc4367-526b-4ad9-a7d7-4ba3a60b0982",
+        "name": "Phô mai"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "4eac7041-d531-431a-946c-d220b659fede",
+        "name": "thạch",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "537bb643-2bea-419d-816f-899b1eee71a8",
+        "name": "chè",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "4eac7041-d531-431a-946c-d220b659fede",
+        "name": "thạch",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "537bb643-2bea-419d-816f-899b1eee71a8",
+        "name": "chè",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "thạch",
+      "chè",
+      "thạch",
+      "chè"
+    ],
+    "recipe_type": [
+      "món tráng miệng",
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa trưa",
+      "bữa tối",
+      "bữa phụ",
+      "bữa trưa",
+      "bữa tối",
+      "bữa phụ"
+    ]
   },
   {
     "id": "f923ad16-d969-4146-9ed1-47835a76c8ac",
@@ -16037,64 +16201,6 @@
     "meal_type": []
   },
   {
-    "id": "87c3f1b2-ac39-4a1c-909c-401fbfb46836",
-    "name": "Pumpkin cake (bánh bí đỏ)",
-    "description": "#chiecgiobimat\n#gioxanh\n#GlobalApron2024\nTôi hay mua bột pumpkin trữ sẵn, để những lúc muốn làm pumpkin cake hay pumpkin bread là có thể làm ngay. Trong mùa mưa, trời lại lành lạnh này ngồi thưởng thức một miếng bánh cùng ly coffee thì không gì tuyệt bằng. \n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/17315443.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 0,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "c5ce5337-961c-4353-a38c-2b1f2004e8b2",
-        "name": "425 gr bột pumpkin(bột bí đỏ)"
-      },
-      {
-        "ingredient_id": "ceccf53b-cdf0-4542-84d8-0520746b7ee8",
-        "name": "3 trứng gà"
-      },
-      {
-        "ingredient_id": "64c8c417-3505-46bc-ba65-3aaddc3ac22b",
-        "name": "80 gr đường cát"
-      },
-      {
-        "ingredient_id": "8db8f05e-e97c-4f05-bc19-1309ae2ad923",
-        "name": "2/3 cup sữa tươi"
-      },
-      {
-        "ingredient_id": "70065a68-be4f-4478-99ca-10a480aadc88",
-        "name": "100 gr cream cheese (phô mai mềm)"
-      },
-      {
-        "ingredient_id": "60b92662-2187-4896-82a9-0cd43832617f",
-        "name": "1 tsp barking powder"
-      },
-      {
-        "ingredient_id": "e214d7a3-e463-4f44-88d1-c99027432917",
-        "name": "1 tsp tinh dầu almond"
-      },
-      {
-        "ingredient_id": "de39ee09-ab73-4301-a944-3ee003af16fe",
-        "name": "1 chén nhỏ hạt almond"
-      },
-      {
-        "ingredient_id": "d13c7d82-0393-4ca9-bf83-9f5007a25177",
-        "name": "1/2 cup dầu ăn"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "e6cc8c8a-4bf8-4996-ba79-0e0923f9fa3e",
     "name": "Chè hoa cau",
     "description": "Năm nay Thanh Minh rơi vào ngày 4/4. Xin gửi tới mọi người một món chè truyền thống hay có trong mâm cỗ cúng.\n#12thangbepvui \n\n\nXem thêm",
@@ -16637,10 +16743,191 @@
         "name": "Bánh oreo"
       }
     ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
+    "tags": [
+      {
+        "tag_id": "4eac7041-d531-431a-946c-d220b659fede",
+        "name": "thạch",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "thạch"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa trưa",
+      "bữa tối"
+    ]
+  },
+  {
+    "id": "87c3f1b2-ac39-4a1c-909c-401fbfb46836",
+    "name": "Bánh bí đỏ",
+    "description": "Trong mùa mưa, trời lại lành lạnh này ngồi thưởng thức một miếng bánh bí đỏ cùng ly coffee thì không gì tuyệt bằng. \n\n",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/17315443.jpg"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 120,
+    "difficulty": "2",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "0d99bb8d-5ad3-46be-b51a-f44fe4c99686",
+        "name": "Bột bí đỏ"
+      },
+      {
+        "ingredient_id": "69e8aa99-1913-489b-b334-d7111be88527",
+        "name": "Trứng gà"
+      },
+      {
+        "ingredient_id": "f3c8c1c9-e754-4456-b5ca-f9a937805dd6",
+        "name": "Đường cát"
+      },
+      {
+        "ingredient_id": "c56b28b2-b0a0-4335-a326-8c2d2a0df776",
+        "name": "Sữa tươi có đường"
+      },
+      {
+        "ingredient_id": "736cf786-c7ae-4708-91e1-aa428d23931f",
+        "name": "Cream cheese"
+      },
+      {
+        "ingredient_id": "ce15ffe8-e137-4f68-8420-7e44d995fb86",
+        "name": "Bột nở"
+      },
+      {
+        "ingredient_id": "c5e3272e-44f5-4a42-bf09-95b359376676",
+        "name": "Dầu hạnh nhân"
+      },
+      {
+        "ingredient_id": "0406e41d-cfd0-4aa7-b7cb-b3b35895de66",
+        "name": "Hạt hạnh nhân"
+      },
+      {
+        "ingredient_id": "ec9e8613-691a-4fea-a114-dc6df4547d5b",
+        "name": "Dầu ăn"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "2223c905-0bd4-4bcd-82a7-a21a318be4ea",
+        "name": "bánh",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "2729a483-7c31-409e-aad4-96ab243c8638",
+        "name": "món Âu",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "880260bd-5579-4479-9522-0ff58391c0c8",
+        "name": "bữa sáng",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      }
+    ],
+    "method": [
+      "bánh"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
+      "bữa trưa",
+      "bữa tối",
+      "bữa sáng"
+    ]
   },
   {
     "id": "641ea4da-b275-444c-8d1c-8dc6f5a1833a",
@@ -19226,56 +19513,6 @@
     "meal_type": []
   },
   {
-    "id": "f8b3e66f-aba6-4074-88dd-48b486cdae9f",
-    "name": "Canh Củ Cải Khô Nấu Xương Heo",
-    "description": "#CookpadApron2025\n\n\nXem thêm",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/24656586.jpg"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 2700,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "0f0ea5f0-683a-4936-be8b-b18b5abfc7d0",
-        "name": "100 g xương heo"
-      },
-      {
-        "ingredient_id": "cd571441-7f0e-4383-bfdb-295ea272756f",
-        "name": "5 g củ cải khô"
-      },
-      {
-        "ingredient_id": "9c8329cf-20ba-4319-aa13-bc9eeea0c503",
-        "name": "1 cây hành lá"
-      },
-      {
-        "ingredient_id": "c20adbf2-93d6-468c-92d4-964f4efaa771",
-        "name": "2 cái lá ngò gai"
-      },
-      {
-        "ingredient_id": "b03b76ca-2cca-46b4-8a14-43376fe954f8",
-        "name": "1 ít muối"
-      },
-      {
-        "ingredient_id": "c473f5f5-0d15-42f2-a47c-fb03cac1b912",
-        "name": "1 củ  hành tím"
-      },
-      {
-        "ingredient_id": "a9f33008-2530-42e6-a4fa-59d3a0b2aa57",
-        "name": "1 ít bột ngọt (tuỳ thích)"
-      }
-    ],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "1ee46d51-de33-49bb-991a-be1923194509",
     "name": "Canh chua rong biển thì là",
     "description": "Trước kia mình từng nghĩ rong biển chỉ có thể nấu canh theo kiểu Nhật với tương miso và dầu mè. Nhưng trong một lần đi ăn chay ở nhà hàng chay thuộc hệ thống của công ty mình - Chay Thuận Phúc được thử món canh này và mình mê luôn. Món canh có hương vị rất gần gũi với người Việt Nam thanh nhẹ dễ ăn tin chắc các bạn sẽ thấy thích. \n\n\nXem thêm",
@@ -21430,7 +21667,7 @@
     "name": "Cà muối",
     "description": "Cà muối là món ăn kèm dân dã, làm từ cà pháo muối lên men có vị mặn chua giòn đặc trưng, thường ăn cùng cơm và các món canh, kho để tăng hương vị.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-573e7a6a-6131-4dff-8827-97ebfa27121f-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -21542,7 +21779,7 @@
     "name": "Chả lá lốt",
     "description": "Chả lá lốt là món ăn thơm ngon, nhân thịt băm trộn gia vị được gói trong lá lốt rồi đem rán hoặc nướng, tạo mùi thơm đặc trưng và vị béo đậm đà, thường ăn kèm bún hoặc cơm.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-539ac3fb-dbb3-4525-8d2c-82fca85ef5e1-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -21654,7 +21891,7 @@
     "name": "Muối vừng",
     "description": "Muối vừng là món ăn kèm đơn giản, làm từ vừng (mè) rang vàng giã nhỏ trộn với muối, có vị mặn bùi, thường ăn với cơm nóng hoặc cơm nắm.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-3ea7b5e2-21dc-4df2-b7de-2330bb5ac0a3-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -21684,13 +21921,6 @@
         "name": "rang",
         "group": [
           7
-        ]
-      },
-      {
-        "tag_id": "880260bd-5579-4479-9522-0ff58391c0c8",
-        "name": "bữa sáng",
-        "group": [
-          10
         ]
       },
       {
@@ -21752,7 +21982,6 @@
     ],
     "meal_type": [
       "bữa sáng",
-      "bữa sáng",
       "bữa trưa",
       "bữa tối"
     ]
@@ -21762,7 +21991,7 @@
     "name": "Bí xanh luộc",
     "description": "Bí xanh luộc là món ăn thanh đạm, bí xanh được luộc chín tới để giữ vị ngọt mát và màu xanh tự nhiên, thường chấm kèm nước mắm hoặc xì dầu, thích hợp cho bữa cơm nhẹ nhàng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-2b5d3d41-d51b-4e27-a9c0-96e84ade08e7-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -21835,7 +22064,7 @@
     "name": "Bí xanh xào gừng",
     "description": "Bí xanh xào gừng là món ăn thanh mát, bí xanh thái miếng xào cùng gừng thái sợi, tạo hương thơm ấm và vị ngọt nhẹ, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-1f4578c3-5823-48c0-a9f3-5c0ef396b061-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -21936,7 +22165,7 @@
     "name": "Canh bí xanh",
     "description": "Canh bí xanh là món canh thanh mát, nấu từ bí xanh tươi với nước dùng ngọt nhẹ từ xương hoặc tôm, thường nêm thêm hành ngò, thích hợp dùng trong bữa cơm gia đình.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-ee0538f4-e5e6-4688-96ce-6165ef9ab26a-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -22098,7 +22327,7 @@
     "name": "Bắp cải xào tỏi",
     "description": "Bắp cải xào tỏi là món rau đơn giản, bắp cải thái nhỏ được xào nhanh trên lửa lớn để giữ độ giòn ngọt tự nhiên, có thể thêm tỏi hoặc gia vị tùy thích, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-2500e750-d165-41f2-bbcc-7e89a7647e58-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -22198,7 +22427,9 @@
     "id": "773d86ec-f6c0-4891-af65-7e9cbd10c9cf",
     "name": "Bắp cải xào cà chua",
     "description": "Bắp cải xào cà chua là món rau xào thanh đạm, kết hợp bắp cải giòn ngọt với cà chua chín mềm tạo vị chua nhẹ và màu sắc hấp dẫn, thường ăn kèm cơm nóng.",
-    "images": [],
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-773d86ec-f6c0-4891-af65-7e9cbd10c9cf-1"
+    ],
     "video_urls": [],
     "cost": 0.0,
     "cooking_time": 20,
@@ -22292,27 +22523,6 @@
       "bữa tối",
       "bữa trưa"
     ]
-  },
-  {
-    "id": "91f2b902-760a-4629-819c-475e44e52c50",
-    "name": "Bắp cải xào cà chua",
-    "description": "Bắp cải xào cà chua là món rau xào thanh đạm, kết hợp bắp cải giòn ngọt với cà chua chín mềm tạo vị chua nhẹ và màu sắc hấp dẫn, thường ăn kèm cơm nóng.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file-773d86ec-f6c0-4891-af65-7e9cbd10c9cf-1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 20,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
   },
   {
     "id": "4fc5efcf-9cb4-4d67-aa77-fdcbb0f95a20",
@@ -22767,7 +22977,9 @@
     "id": "e380b469-4de2-465d-9c85-fab4173c7353",
     "name": "Đậu cô ve xào tỏi",
     "description": "Đậu cô ve xào tỏi là món rau xào đơn giản, đậu cô ve tươi giòn được xào nhanh với tỏi băm thơm, giữ trọn hương vị và màu sắc tự nhiên, thường ăn kèm cơm nóng.",
-    "images": [],
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-e380b469-4de2-465d-9c85-fab4173c7353-1"
+    ],
     "video_urls": [],
     "cost": 0.0,
     "cooking_time": 15,
@@ -22855,7 +23067,7 @@
     "name": "Đậu cô ve luộc",
     "description": "Đậu cô ve luộc là món ăn thanh đạm, đậu cô ve tươi được luộc chín tới để giữ độ giòn ngọt và màu xanh tự nhiên, thường chấm kèm nước mắm, muối vừng hoặc xì dầu.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-ee69af4a-8bdb-44be-b9a9-57e1157a383c-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -22928,7 +23140,7 @@
     "name": "Mướp luộc",
     "description": "Mướp luộc là món ăn nhẹ thanh mát, mướp tươi gọt vỏ, cắt khúc rồi luộc chín tới để giữ vị ngọt dịu, thường chấm kèm nước mắm hoặc xì dầu.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-32a308c2-155b-4456-9223-c1f6b3fbe876-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -23009,7 +23221,7 @@
     "name": "Canh mướp nấu lạc",
     "description": "Canh mướp nấu lạc là món canh thanh mát, nấu từ mướp tươi và lạc giã nhuyễn tạo vị bùi béo, ngọt nhẹ, thường dùng nóng cùng cơm trắng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-2f528b1a-8a99-4ea4-b9f1-fba87ff039ba-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -23102,7 +23314,7 @@
     "name": "Mướp xào giá đỗ",
     "description": "Mướp xào giá đỗ là món xào thanh mát, kết hợp mướp ngọt mềm với giá đỗ giòn tươi, xào nhanh giữ hương vị tự nhiên, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-f81c5e07-7199-4387-94dc-61769734fba6-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -23185,97 +23397,6 @@
     ],
     "method": [
       "xào"
-    ],
-    "recipe_type": [
-      "món phụ"
-    ],
-    "meal_type": [
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
-    "id": "c0d2b98f-6c85-4565-bf1e-0a656aee72bd",
-    "name": "Mồng tơi luộc",
-    "description": "Mồng tơi luộc là món ăn thanh đạm, mồng tơi tươi được luộc chín tới giữ màu xanh và vị nhớt nhẹ đặc trưng, thường chấm kèm nước mắm hoặc xì dầu, nước luộc có thể dùng làm canh giải nhiệt.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 10,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "9d59441a-c0b8-4cc0-bef0-02c53ad50a2e",
-        "name": "Mồng tơi"
-      },
-      {
-        "ingredient_id": "62413502-3ff1-4422-9056-d28413efe992",
-        "name": "Muối"
-      },
-      {
-        "ingredient_id": "e644eca5-e407-4cdd-ad17-25b3b3ac9f41",
-        "name": "Chanh"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "6087b946-a62e-4414-9183-da567507c37c",
-        "name": "luộc",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
-        "name": "món phụ",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
-        "name": "cao tuổi",
-        "group": [
-          5
-        ]
-      }
-    ],
-    "method": [
-      "luộc"
     ],
     "recipe_type": [
       "món phụ"
@@ -23426,6 +23547,97 @@
     "meal_type": [
       "bữa sáng",
       "bữa phụ",
+      "bữa tối",
+      "bữa trưa"
+    ]
+  },
+  {
+    "id": "c0d2b98f-6c85-4565-bf1e-0a656aee72bd",
+    "name": "Mồng tơi luộc",
+    "description": "Mồng tơi luộc là món ăn thanh đạm, mồng tơi tươi được luộc chín tới giữ màu xanh và vị nhớt nhẹ đặc trưng, thường chấm kèm nước mắm hoặc xì dầu, nước luộc có thể dùng làm canh giải nhiệt.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-c0d2b98f-6c85-4565-bf1e-0a656aee72bd-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 10,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "9d59441a-c0b8-4cc0-bef0-02c53ad50a2e",
+        "name": "Mồng tơi"
+      },
+      {
+        "ingredient_id": "62413502-3ff1-4422-9056-d28413efe992",
+        "name": "Muối"
+      },
+      {
+        "ingredient_id": "e644eca5-e407-4cdd-ad17-25b3b3ac9f41",
+        "name": "Chanh"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "6087b946-a62e-4414-9183-da567507c37c",
+        "name": "luộc",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
+        "name": "món phụ",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      }
+    ],
+    "method": [
+      "luộc"
+    ],
+    "recipe_type": [
+      "món phụ"
+    ],
+    "meal_type": [
       "bữa tối",
       "bữa trưa"
     ]
@@ -24072,7 +24284,7 @@
     "name": "Lạc rang muối",
     "description": "Lạc rang muối là món ăn vặt và ăn kèm quen thuộc, lạc (đậu phộng) rang giòn rồi trộn với muối, có vị bùi mặn hấp dẫn, thường ăn với cơm hoặc dùng làm món nhắm.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-81340ad5-ac7f-4d54-aef8-1ba0c917ad6b-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -24292,7 +24504,7 @@
     "name": "Bí đỏ xào tỏi",
     "description": "Bí đỏ xào tỏi là món xào thơm ngon, bí đỏ ngọt bùi được xào cùng tỏi băm dậy mùi, tạo hương vị đậm đà, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-d80e2fa6-e507-435a-9d7a-e6c24035deba-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -24398,7 +24610,9 @@
     "id": "43e564c2-c739-41cb-9ff1-cfa889232363",
     "name": "Khoai tây xào",
     "description": "Khoai tây xào là món ăn đơn giản, khoai tây thái miếng hoặc sợi được xào chín mềm, có thể kết hợp thêm hành, tỏi hoặc thịt để tăng hương vị, thường ăn kèm cơm nóng.",
-    "images": [],
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-43e564c2-c739-41cb-9ff1-cfa889232363-1"
+    ],
     "video_urls": [],
     "cost": 0.0,
     "cooking_time": 30,
@@ -24520,7 +24734,7 @@
     "name": "Khoai tây xào cà chua",
     "description": "Khoai tây xào cà chua là món xào dân dã, khoai tây bùi mềm kết hợp cà chua chín tạo vị chua nhẹ và màu sắc hấp dẫn, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-5255261b-946a-4fc0-858a-2e913d679134-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -24637,7 +24851,7 @@
     "name": "Cải thảo luộc",
     "description": "Cải thảo luộc là món ăn thanh đạm, cải thảo tươi được luộc chín tới để giữ vị ngọt dịu và màu sắc tự nhiên, thường chấm kèm nước mắm, muối vừng hoặc xì dầu.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-44db3fca-d955-4d07-8c26-77d2bf913b5f-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -24718,7 +24932,7 @@
     "name": "Cải thảo xào nấm đùi gà",
     "description": "Cải thảo xào nấm là món xào thanh đạm, kết hợp cải thảo mềm ngọt với nấm thơm dai, xào nhanh giữ hương vị tự nhiên, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-45624908-7246-44a5-86ce-77cccde99e4f-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -24819,7 +25033,7 @@
     "name": "Canh cải ngọt thịt băm",
     "description": "Canh cải ngọt thịt băm là món canh thanh mát, nấu từ cải ngọt tươi và thịt băm xào thơm, tạo vị ngọt tự nhiên, dễ ăn, thích hợp cho bữa cơm gia đình.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-f029639a-5d9a-4218-8666-42b2011f09fb-2"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -24934,7 +25148,7 @@
     "name": "Cải ngọt xào tỏi",
     "description": "Cải ngọt xào tỏi là món rau xào đơn giản, cải ngọt tươi xanh được xào nhanh với tỏi băm thơm, giữ độ giòn ngọt tự nhiên, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-562806a7-2475-4003-9b13-17a0fcd94a90-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -25027,132 +25241,11 @@
     ]
   },
   {
-    "id": "47c4760e-bc45-47ad-85f6-8ab29f124ce0",
-    "name": "Canh chua giá dứa",
-    "description": "Canh chua giá dứa là món canh thanh mát, kết hợp vị chua dịu của dứa với vị giòn tươi của giá đỗ, thường nấu kèm cà chua và rau thơm, tạo hương vị dễ ăn và kích thích vị giác.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 20,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "269a1edf-2f10-444c-84a9-5ae7195eda89",
-        "name": "Thịt lợn xay"
-      },
-      {
-        "ingredient_id": "611de9a4-1cfc-4e1a-9cb1-36a9b97b830f",
-        "name": "Cà chua"
-      },
-      {
-        "ingredient_id": "1e64d65f-4275-4089-ad1e-53144dddb14b",
-        "name": "Dứa"
-      },
-      {
-        "ingredient_id": "d7801585-2e08-4f8c-a5b0-fb9ef5ff0b12",
-        "name": "Giá đỗ"
-      },
-      {
-        "ingredient_id": "4748edcc-95e6-4b51-85e5-5ad5113ec222",
-        "name": "Tỏi"
-      },
-      {
-        "ingredient_id": "d7a7ef97-5fc1-49a9-ad93-54a5eff0c853",
-        "name": "Ớt sừng"
-      },
-      {
-        "ingredient_id": "e8b927e5-4037-45a1-a83a-db80e01890ee",
-        "name": "Hành lá"
-      },
-      {
-        "ingredient_id": "ff881e5c-017b-4a18-b4f8-d9d3b76fbcf7",
-        "name": "Rau ngổ"
-      },
-      {
-        "ingredient_id": "45926e35-93cf-47f0-9d03-bba0bb8f3071",
-        "name": "Nước mắm"
-      },
-      {
-        "ingredient_id": "d51aabb2-8e98-414b-b54a-1b0cd67435c8",
-        "name": "Đường"
-      },
-      {
-        "ingredient_id": "62413502-3ff1-4422-9056-d28413efe992",
-        "name": "Muối"
-      },
-      {
-        "ingredient_id": "4829e75a-08f0-4c9c-8bc9-9513f952e4fb",
-        "name": "Mì chính"
-      },
-      {
-        "ingredient_id": "050200bf-94f1-4381-ba13-57f555a90fde",
-        "name": "Nước cốt me"
-      },
-      {
-        "ingredient_id": "ec9e8613-691a-4fea-a114-dc6df4547d5b",
-        "name": "Dầu ăn"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
-        "name": "canh",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
-        "name": "món canh",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      }
-    ],
-    "method": [
-      "canh"
-    ],
-    "recipe_type": [
-      "món canh"
-    ],
-    "meal_type": [
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "7dd64ed1-ea84-4950-80ab-f2e530f83380",
     "name": "Canh chua thịt băm giá dứa",
     "description": "Canh chua thịt băm giá dứa là món canh thanh mát, kết hợp vị chua dịu của dứa với vị giòn tươi của giá đỗ, thường nấu kèm cà chua và rau thơm, tạo hương vị dễ ăn và kích thích vị giác.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-7dd64ed1-ea84-4950-80ab-f2e530f83380-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -25293,7 +25386,7 @@
     "name": "Giò lụa",
     "description": "Giò lụa là món ăn truyền thống Việt Nam, làm từ thịt heo xay nhuyễn trộn gia vị, gói trong lá chuối và luộc chín, có hương thơm đặc trưng, vị giòn dai, thường ăn kèm cơm, bánh chưng hoặc bánh mì.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-d649ed26-7b9c-4d9e-a2f8-d6e21fe44b0c-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -25393,7 +25486,7 @@
     "name": "Giò bò",
     "description": "Giò bò là món ăn truyền thống, làm từ thịt bò xay nhuyễn trộn gia vị, gói trong lá chuối và luộc chín, có màu sẫm đặc trưng, vị thơm đậm và dai ngon, thường ăn kèm cơm, bún hoặc bánh mì.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-5e2de805-4be3-446e-9eab-6f2ae5f5db51-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -25501,32 +25594,11 @@
     ]
   },
   {
-    "id": "3e187866-8293-4498-90b2-a58eba24eb9a",
-    "name": "Giò bò",
-    "description": "Giò bò là món ăn truyền thống, làm từ thịt bò xay nhuyễn trộn gia vị, gói trong lá chuối và luộc chín, có màu sẫm đặc trưng, vị thơm đậm và dai ngon, thường ăn kèm cơm, bún hoặc bánh mì.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 180,
-    "difficulty": "3",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
-  },
-  {
     "id": "c8f18e44-30ca-4daf-965d-415739ac1bea",
     "name": "Giò xào",
     "description": "Giò xào là món ăn truyền thống, làm từ tai heo, mũi heo và thịt chân giò thái mỏng, trộn gia vị rồi gói trong lá chuối và ép chặt cho kết dính, có vị giòn sần sật, thường ăn kèm dưa món hoặc cơm.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-c8f18e44-30ca-4daf-965d-415739ac1bea-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -25772,7 +25844,9 @@
     "id": "0f01cd86-c333-4ab9-9c3f-05d98e1ade7c",
     "name": "Chả cốm rán",
     "description": "Chả cốm rán là món ăn truyền thống Hà Nội, làm từ thịt heo xay trộn cùng cốm xanh và gia vị, nặn thành miếng rồi rán vàng, có lớp vỏ giòn nhẹ, bên trong mềm thơm, thường ăn kèm bún đậu hoặc cơm.",
-    "images": [],
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-0f01cd86-c333-4ab9-9c3f-05d98e1ade7c-1"
+    ],
     "video_urls": [],
     "cost": 0.0,
     "cooking_time": 45,
@@ -25871,7 +25945,7 @@
     "name": "Chả mực rán",
     "description": "Chả mực rán là đặc sản nổi tiếng, làm từ mực tươi giã tay trộn gia vị, nặn thành miếng rồi rán vàng giòn, có vị ngọt đậm và độ dai sần sật, thường ăn kèm cơm, xôi hoặc bún.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-34fe56f4-eda8-4c99-a74f-f380d8a90764-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -25956,7 +26030,7 @@
     "name": "Chả ốc rán",
     "description": "Chả ốc rán là món ăn dân dã, làm từ ốc băm nhỏ trộn cùng giò sống, thịt băm và gia vị, nặn thành miếng rồi rán vàng, có vị giòn dai đặc trưng, thường ăn kèm rau sống và nước mắm chua ngọt.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-470d1fb3-150a-4a99-b4cc-307e20c2670d-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -26063,27 +26137,6 @@
       "bữa tối",
       "bữa trưa"
     ]
-  },
-  {
-    "id": "8d3312fa-3ce5-412f-bbaa-8bfa0d688b39",
-    "name": "Chả ốc rán",
-    "description": "Chả ốc rán là món ăn dân dã, làm từ ốc băm nhỏ trộn cùng giò sống, thịt băm và gia vị, nặn thành miếng rồi rán vàng, có vị giòn dai đặc trưng, thường ăn kèm rau sống và nước mắm chua ngọt.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 45,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [],
-    "tags": [],
-    "method": [],
-    "recipe_type": [],
-    "meal_type": []
   },
   {
     "id": "f1f5fded-b6e9-4bf7-9170-17b211b40cfa",
@@ -26309,7 +26362,9 @@
     "id": "6fd438f1-6209-4301-85c1-b83ade6f1529",
     "name": "Nộm dưa chuột giò lụa",
     "description": "Nộm dưa chuột giò lụa là món gỏi thanh mát, kết hợp dưa chuột giòn tươi với giò lụa thái sợi, trộn cùng rau thơm và nước mắm chua ngọt, tạo hương vị hài hòa, dễ ăn.",
-    "images": [],
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-6fd438f1-6209-4301-85c1-b83ade6f1529-1"
+    ],
     "video_urls": [],
     "cost": 0.0,
     "cooking_time": 20,
@@ -27219,91 +27274,6 @@
     ]
   },
   {
-    "id": "d37f3e1f-e49f-49c3-a90b-4eaeb8488a0b",
-    "name": "Mướp đắng xào trứng",
-    "description": "Mướp đắng xào trứng là món xào thanh mát, mướp đắng thái mỏng xào cùng trứng gà, tạo vị đắng nhẹ xen lẫn vị béo bùi, thường ăn kèm cơm nóng.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 15,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "0a3d47a6-ff91-42c2-a714-c87e71ed9a10",
-        "name": "Mướp đắng"
-      },
-      {
-        "ingredient_id": "69e8aa99-1913-489b-b334-d7111be88527",
-        "name": "Trứng gà"
-      },
-      {
-        "ingredient_id": "76216c95-4ba8-4fec-b633-19ef0591395d",
-        "name": "Hành tím khô"
-      },
-      {
-        "ingredient_id": "e8b927e5-4037-45a1-a83a-db80e01890ee",
-        "name": "Hành lá"
-      },
-      {
-        "ingredient_id": "ec9e8613-691a-4fea-a114-dc6df4547d5b",
-        "name": "Dầu ăn"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "f0edd343-cf41-4174-944f-9f76478c0960",
-        "name": "xào",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      },
-      {
-        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
-        "name": "món phụ",
-        "group": [
-          9
-        ]
-      }
-    ],
-    "method": [
-      "xào"
-    ],
-    "recipe_type": [
-      "món phụ"
-    ],
-    "meal_type": [
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "40757eb4-0864-49c4-bf52-50fb11a2c33a",
     "name": "Thịt bò lúc lắc",
     "description": "Thịt bò lúc lắc là món ăn ngon miệng, hấp dẫn với thịt bò mềm ngọt, đậm đà gia vị, kết hợp cùng rau củ tươi ngon, mang đến trải nghiệm ẩm thực tuyệt vời.",
@@ -27538,6 +27508,91 @@
     ],
     "meal_type": [
       "bữa sáng",
+      "bữa trưa",
+      "bữa tối"
+    ]
+  },
+  {
+    "id": "d37f3e1f-e49f-49c3-a90b-4eaeb8488a0b",
+    "name": "Mướp đắng xào trứng",
+    "description": "Mướp đắng xào trứng là món xào thanh mát, mướp đắng thái mỏng xào cùng trứng gà, tạo vị đắng nhẹ xen lẫn vị béo bùi, thường ăn kèm cơm nóng.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-d37f3e1f-e49f-49c3-a90b-4eaeb8488a0b-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 15,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "0a3d47a6-ff91-42c2-a714-c87e71ed9a10",
+        "name": "Mướp đắng"
+      },
+      {
+        "ingredient_id": "69e8aa99-1913-489b-b334-d7111be88527",
+        "name": "Trứng gà"
+      },
+      {
+        "ingredient_id": "76216c95-4ba8-4fec-b633-19ef0591395d",
+        "name": "Hành tím khô"
+      },
+      {
+        "ingredient_id": "e8b927e5-4037-45a1-a83a-db80e01890ee",
+        "name": "Hành lá"
+      },
+      {
+        "ingredient_id": "ec9e8613-691a-4fea-a114-dc6df4547d5b",
+        "name": "Dầu ăn"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "f0edd343-cf41-4174-944f-9f76478c0960",
+        "name": "xào",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
+        "name": "món phụ",
+        "group": [
+          9
+        ]
+      }
+    ],
+    "method": [
+      "xào"
+    ],
+    "recipe_type": [
+      "món phụ"
+    ],
+    "meal_type": [
       "bữa trưa",
       "bữa tối"
     ]
@@ -28345,7 +28400,7 @@
     "name": "Bầu luộc",
     "description": "Bầu luộc là món ăn thanh mát, bầu non gọt vỏ, cắt khúc rồi luộc chín tới để giữ vị ngọt dịu và màu xanh tươi, thường chấm kèm nước mắm hoặc xì dầu.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-c408d9d9-53af-4f09-a49a-5382341155e5-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -29284,87 +29339,6 @@
     ]
   },
   {
-    "id": "b5829065-ea64-40e8-ad9f-758e111ddfa4",
-    "name": "Canh rau ngót",
-    "description": "Canh rau ngót là món canh thanh đạm, nấu từ rau ngót tươi và nước dùng ngọt nhẹ từ thịt hoặc xương, có vị ngọt mát, thường ăn nóng kèm cơm trắng.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 15,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "70f04ed0-bc86-4cb2-8158-321e0e9b0c9d",
-        "name": "Rau ngót"
-      },
-      {
-        "ingredient_id": "eb166404-f97c-440b-8da0-3feefd1e8423",
-        "name": "Hạt nêm chay"
-      },
-      {
-        "ingredient_id": "62413502-3ff1-4422-9056-d28413efe992",
-        "name": "Muối"
-      },
-      {
-        "ingredient_id": "4829e75a-08f0-4c9c-8bc9-9513f952e4fb",
-        "name": "Mì chính"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
-        "name": "canh",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
-        "name": "món canh",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "canh"
-    ],
-    "recipe_type": [
-      "món canh"
-    ],
-    "meal_type": [
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "08517f95-0827-4616-a0f5-c579072585a9",
     "name": "Tôm nõn rang",
     "description": "Tôm nõn rang đậm đà, thơm ngon, là món ăn quen thuộc trong bữa cơm gia đình Việt. Cách chế biến đơn giản, nhanh chóng, phù hợp với mọi lứa tuổi.",
@@ -29459,6 +29433,87 @@
     "meal_type": [
       "bữa tối",
       "bữa trưa"
+    ]
+  },
+  {
+    "id": "b5829065-ea64-40e8-ad9f-758e111ddfa4",
+    "name": "Canh rau ngót",
+    "description": "Canh rau ngót là món canh thanh đạm, nấu từ rau ngót tươi và nước dùng ngọt nhẹ từ thịt hoặc xương, có vị ngọt mát, thường ăn nóng kèm cơm trắng.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-b5829065-ea64-40e8-ad9f-758e111ddfa4-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 15,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "70f04ed0-bc86-4cb2-8158-321e0e9b0c9d",
+        "name": "Rau ngót"
+      },
+      {
+        "ingredient_id": "eb166404-f97c-440b-8da0-3feefd1e8423",
+        "name": "Hạt nêm chay"
+      },
+      {
+        "ingredient_id": "62413502-3ff1-4422-9056-d28413efe992",
+        "name": "Muối"
+      },
+      {
+        "ingredient_id": "4829e75a-08f0-4c9c-8bc9-9513f952e4fb",
+        "name": "Mì chính"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "59d3d9c9-4a8d-4e29-abe6-e86c9a7281fd",
+        "name": "canh",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "05dff4b0-e1bd-465f-ad69-6c872e8aedd9",
+        "name": "món canh",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "canh"
+    ],
+    "recipe_type": [
+      "món canh"
+    ],
+    "meal_type": [
+      "bữa trưa",
+      "bữa tối"
     ]
   },
   {
@@ -30333,7 +30388,7 @@
     "name": "Cà tím bung mẻ",
     "description": "Cà tím bung mẻ là món ăn dân dã, cà tím nấu cùng mẻ chua và thịt ba chỉ hoặc sườn, tạo vị chua thanh đặc trưng, thịt mềm béo, cà tím bùi ngọt, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-bf5aa5b3-96cd-42f9-bacd-09f839024f16-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -31538,7 +31593,9 @@
     "id": "7e32714a-f1bc-475f-b816-6175048901c6",
     "name": "Cà tím xào tỏi ớt",
     "description": "Cà tím xào tỏi là món xào đơn giản, cà tím mềm ngọt được xào cùng tỏi băm dậy mùi, thấm gia vị đậm đà, thường ăn kèm cơm nóng.",
-    "images": [],
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-7e32714a-f1bc-475f-b816-6175048901c6-1"
+    ],
     "video_urls": [],
     "cost": 0.0,
     "cooking_time": 20,
@@ -32884,7 +32941,7 @@
     "name": "Giá đỗ xào chay",
     "description": "Giá đỗ xào là món ăn thanh mát, giá đỗ giòn ngọt được xào nhanh trên lửa lớn để giữ độ tươi, thường nêm thêm hành lá hoặc tỏi cho dậy mùi, ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-708ce535-8524-4e45-999b-115df87d77e3-2"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -37281,7 +37338,7 @@
     "name": "Củ cải trắng luộc",
     "description": "Củ cải trắng luộc là món ăn thanh đạm, củ cải trắng gọt vỏ, cắt khúc rồi luộc chín tới để giữ vị ngọt tự nhiên và độ giòn nhẹ, thường chấm kèm nước mắm hoặc xì dầu.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-4a252964-42dc-4398-9427-48deafe34eb6-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -38517,7 +38574,7 @@
     "name": "Củ cải trắng xào tỏi",
     "description": "Củ cải trắng xào là món rau củ đơn giản, củ cải trắng thái sợi hoặc lát mỏng xào nhanh với tỏi, hành hoặc thịt băm, giữ vị giòn ngọt tự nhiên, thường ăn kèm cơm nóng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-d401eac4-20ba-435a-8f7e-35e4f1d50bd2-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -43651,13 +43708,6 @@
         ]
       },
       {
-        "tag_id": "2729a483-7c31-409e-aad4-96ab243c8638",
-        "name": "món Âu",
-        "group": [
-          6
-        ]
-      },
-      {
         "tag_id": "9fe22ef1-fe9b-45fe-8980-52aadd00cd91",
         "name": "Sốt",
         "group": [
@@ -43951,75 +44001,6 @@
     ]
   },
   {
-    "id": "6dbd2745-f538-48f8-bed2-ed7ccf6d8d6d",
-    "name": "Mít chín",
-    "description": "Ngọt, thơm, thịt vàng dẻo, giàu chất xơ.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "ecba5109-36fb-40a4-8fb8-46e13daaee7d",
-        "name": "Mít mật"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
     "id": "3eb5a52b-df40-4b7e-9c46-919244b6374a",
     "name": "Kho quẹt thịt ba chỉ và tôm tươi",
     "description": "Kho quẹt đậm đà, thơm ngon với thịt ba chỉ béo ngậy và tôm tươi ngọt thịt, ăn kèm rau củ luộc thì hao cơm phải biết!",
@@ -44117,6 +44098,75 @@
     ],
     "recipe_type": [
       "món phụ"
+    ],
+    "meal_type": [
+      "bữa tối",
+      "bữa trưa"
+    ]
+  },
+  {
+    "id": "6dbd2745-f538-48f8-bed2-ed7ccf6d8d6d",
+    "name": "Mít chín",
+    "description": "Ngọt, thơm, thịt vàng dẻo, giàu chất xơ.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-6dbd2745-f538-48f8-bed2-ed7ccf6d8d6d-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "ecba5109-36fb-40a4-8fb8-46e13daaee7d",
+        "name": "Mít mật"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
     ],
     "meal_type": [
       "bữa tối",
@@ -44926,7 +44976,7 @@
     "name": "Dưa hấu",
     "description": "Ngọt mát, nhiều nước, giải nhiệt tốt.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-3c6cdacf-2a3b-40d2-912a-dcbc0d8c15a6-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -47439,89 +47489,6 @@
     ]
   },
   {
-    "id": "b906489a-89ec-4808-99d6-4630d4de08b5",
-    "name": "Đu đủ chín",
-    "description": "Ngọt mềm, giàu enzym hỗ trợ tiêu hóa.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "c12a04c1-9976-43a7-946a-68e5fa025ef7",
-        "name": "Đu đủ chín"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
-        "name": "cao tuổi",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
     "id": "fb7ce6c4-2a4c-456c-9d26-2cbb9d1207c5",
     "name": "Gà nướng nước mắm",
     "description": "Gà nướng nước mắm với lớp da giòn tan, thấm đẫm vị mặn ngọt đậm đà của nước mắm, thơm lừng mùi tỏi ớt, là món ăn hấp dẫn khó cưỡng.",
@@ -47709,6 +47676,89 @@
     "meal_type": [
       "bữa trưa",
       "bữa tối"
+    ]
+  },
+  {
+    "id": "b906489a-89ec-4808-99d6-4630d4de08b5",
+    "name": "Đu đủ chín",
+    "description": "Ngọt mềm, giàu enzym hỗ trợ tiêu hóa.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-b906489a-89ec-4808-99d6-4630d4de08b5-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "c12a04c1-9976-43a7-946a-68e5fa025ef7",
+        "name": "Đu đủ chín"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa tối",
+      "bữa trưa"
     ]
   },
   {
@@ -48696,90 +48746,6 @@
     ]
   },
   {
-    "id": "4217a9d5-82f9-4b75-8c6a-39a866cabe59",
-    "name": "Cam",
-    "description": "Vị chua ngọt tươi, giàu vitamin C.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "6235133c-337e-48d9-acab-a645052887b9",
-        "name": "Cam"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ",
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "f5616adc-d710-4b16-9b1d-d615df9471af",
     "name": "Khổ qua xào trứng",
     "description": "Khổ qua xào trứng là món ăn dân dã, dễ làm, có vị đắng đặc trưng của khổ qua kết hợp với vị béo ngậy của trứng, rất tốt cho sức khỏe.",
@@ -48868,6 +48834,90 @@
       "món phụ"
     ],
     "meal_type": [
+      "bữa trưa",
+      "bữa tối"
+    ]
+  },
+  {
+    "id": "4217a9d5-82f9-4b75-8c6a-39a866cabe59",
+    "name": "Cam",
+    "description": "Vị chua ngọt tươi, giàu vitamin C.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-4217a9d5-82f9-4b75-8c6a-39a866cabe59-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "6235133c-337e-48d9-acab-a645052887b9",
+        "name": "Cam"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
       "bữa trưa",
       "bữa tối"
     ]
@@ -49805,7 +49855,7 @@
     "name": "Quýt",
     "description": "Vị chua ngọt tươi, giàu vitamin C.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-62a043b2-2543-472b-bb2c-6761f036c248-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -50876,7 +50926,7 @@
     "name": "Bưởi",
     "description": "Vị chua ngọt tươi, giàu vitamin C.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-0a49deac-2731-4ead-9142-26509b1ed740-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -52815,45 +52865,10 @@
     ],
     "tags": [
       {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
         "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
         "name": "ăn sống",
         "group": [
           7
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
         ]
       },
       {
@@ -52896,13 +52911,6 @@
         "name": "bữa trưa",
         "group": [
           10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
         ]
       },
       {
@@ -52918,13 +52926,9 @@
       "ăn sống"
     ],
     "recipe_type": [
-      "món tráng miệng",
       "món tráng miệng"
     ],
     "meal_type": [
-      "bữa trưa",
-      "bữa tối",
-      "bữa phụ",
       "bữa phụ",
       "bữa tối",
       "bữa trưa"
@@ -53567,99 +53571,6 @@
     ]
   },
   {
-    "id": "0c6403c7-f514-4cdc-aa59-5830a4fb8c78",
-    "name": "Bơ chuối dầm sữa",
-    "description": "Béo mềm, mịn, giàu chất béo lành mạnh.",
-    "images": [],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 10,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "fc33fde6-69d8-4869-be06-7a2fddcfe69b",
-        "name": "Bơ"
-      },
-      {
-        "ingredient_id": "6d808887-b894-4cd8-a47d-e1763ff52a58",
-        "name": "Chuối"
-      },
-      {
-        "ingredient_id": "63fbc693-cadf-41d9-9d0c-ca2d1fad23bc",
-        "name": "Sữa tươi không đường"
-      },
-      {
-        "ingredient_id": "2c72f2ce-3ac8-4697-8d24-ecec4daabbe8",
-        "name": "Sữa đặc"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "7052a526-e4bb-4739-ad3a-bd4bb18ddf99",
-        "name": "trộn",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
-        "name": "cao tuổi",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      },
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      }
-    ],
-    "method": [
-      "trộn",
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ"
-    ]
-  },
-  {
     "id": "2aa3d550-d5de-4062-92d7-1367c15c0b8a",
     "name": "Thịt lợn xay xào",
     "description": "Thịt heo xay xào đậm đà, thơm ngon, dễ làm, ăn kèm cơm nóng rất hấp dẫn. Món ăn quen thuộc trong bữa cơm gia đình Việt.",
@@ -53858,6 +53769,101 @@
     "meal_type": [
       "bữa tối",
       "bữa trưa"
+    ]
+  },
+  {
+    "id": "0c6403c7-f514-4cdc-aa59-5830a4fb8c78",
+    "name": "Bơ chuối dầm sữa",
+    "description": "Béo mềm, mịn, giàu chất béo lành mạnh.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-0c6403c7-f514-4cdc-aa59-5830a4fb8c78-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 10,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "fc33fde6-69d8-4869-be06-7a2fddcfe69b",
+        "name": "Bơ"
+      },
+      {
+        "ingredient_id": "6d808887-b894-4cd8-a47d-e1763ff52a58",
+        "name": "Chuối"
+      },
+      {
+        "ingredient_id": "63fbc693-cadf-41d9-9d0c-ca2d1fad23bc",
+        "name": "Sữa tươi không đường"
+      },
+      {
+        "ingredient_id": "2c72f2ce-3ac8-4697-8d24-ecec4daabbe8",
+        "name": "Sữa đặc"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "7052a526-e4bb-4739-ad3a-bd4bb18ddf99",
+        "name": "trộn",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      }
+    ],
+    "method": [
+      "trộn",
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ"
     ]
   },
   {
@@ -55103,111 +55109,6 @@
     ]
   },
   {
-    "id": "ff504a6f-c5b5-4745-9e29-3031a7830ebe",
-    "name": "Dưa vàng",
-    "description": "Ngọt, nhiều nước, màu vàng bắt mắt.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "a8e1269a-d6b1-4864-a8ae-8db77850f70c",
-        "name": "Dưa vàng"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
-        "name": "cao tuổi",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "037f9f0f-4ff2-44d9-9487-7b6c6415677d",
-        "name": "mang thai",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "6d11dd52-21fd-4a3d-a7bc-6a4c79959b6b",
-        "name": "sau sinh",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "594f295b-d8ca-43a1-a599-dc104b1d34d8",
-        "name": "người ốm",
-        "group": [
-          5
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ",
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
     "id": "5128f28e-b5e4-4ba9-935d-e68daea66bd6",
     "name": "Cơm chiên nấm rong biển",
     "description": "Cơm chiên nấm rong biển thơm ngon, bổ dưỡng, kết hợp vị ngọt tự nhiên của nấm và hương vị biển đặc trưng của rong biển, mang đến trải nghiệm ẩm thực độc đáo.",
@@ -55408,6 +55309,111 @@
       "món chính"
     ],
     "meal_type": [
+      "bữa tối",
+      "bữa trưa"
+    ]
+  },
+  {
+    "id": "ff504a6f-c5b5-4745-9e29-3031a7830ebe",
+    "name": "Dưa vàng",
+    "description": "Ngọt, nhiều nước, màu vàng bắt mắt.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-ff504a6f-c5b5-4745-9e29-3031a7830ebe-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "a8e1269a-d6b1-4864-a8ae-8db77850f70c",
+        "name": "Dưa vàng"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "037f9f0f-4ff2-44d9-9487-7b6c6415677d",
+        "name": "mang thai",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "6d11dd52-21fd-4a3d-a7bc-6a4c79959b6b",
+        "name": "sau sinh",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "594f295b-d8ca-43a1-a599-dc104b1d34d8",
+        "name": "người ốm",
+        "group": [
+          5
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
       "bữa tối",
       "bữa trưa"
     ]
@@ -56139,81 +56145,6 @@
     ]
   },
   {
-    "id": "593d01c1-6301-4341-8e88-0f014406324c",
-    "name": "Chôm chôm",
-    "description": "Ngọt, mọng nước, lớp vỏ gai đặc trưng.",
-    "images": [],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "b94c544b-cdcb-4a31-b43c-34899d60214c",
-        "name": "Chôm chôm"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ",
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
     "id": "7f890e1c-9bae-48f2-84a3-5c563c7ef412",
     "name": "Tôm hùm nướng phô mai bơ tỏi ",
     "description": "Tôm hùm tươi ngon nướng cùng phô mai béo ngậy, bơ thơm lừng và tỏi phi giòn tan. Món ăn sang trọng, dễ chế biến, phù hợp cho các bữa tiệc.",
@@ -56306,6 +56237,83 @@
       "món chính"
     ],
     "meal_type": [
+      "bữa tối",
+      "bữa trưa"
+    ]
+  },
+  {
+    "id": "593d01c1-6301-4341-8e88-0f014406324c",
+    "name": "Chôm chôm",
+    "description": "Ngọt, mọng nước, lớp vỏ gai đặc trưng.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-593d01c1-6301-4341-8e88-0f014406324c-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "b94c544b-cdcb-4a31-b43c-34899d60214c",
+        "name": "Chôm chôm"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
       "bữa tối",
       "bữa trưa"
     ]
@@ -57387,87 +57395,6 @@
     ]
   },
   {
-    "id": "7322d923-5cd7-412c-a404-1533c11d51d5",
-    "name": "Mận",
-    "description": "Vị chua ngọt, giòn, thơm.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "8a133b77-d622-4a6a-be05-cd5baf2d1483",
-        "name": "Mận"
-      },
-      {
-        "ingredient_id": "5e4f6613-0bf1-4c87-acb7-5a3af0a1d76a",
-        "name": "Muối tôm Tây Ninh"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ",
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "f6ab59c9-3414-47e0-97ba-adcdd336eee9",
     "name": "Tim heo sa tế",
     "description": "Tim heo sa tế với hương vị cay nồng, đậm đà, là món ăn hấp dẫn để nhâm nhi. Tim heo giòn ngon kết hợp cùng sa tế thơm lừng, tạo nên món ăn khó cưỡng.",
@@ -57570,6 +57497,87 @@
     "meal_type": [
       "bữa tối",
       "bữa trưa"
+    ]
+  },
+  {
+    "id": "7322d923-5cd7-412c-a404-1533c11d51d5",
+    "name": "Mận",
+    "description": "Vị chua ngọt, giòn, thơm.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-7322d923-5cd7-412c-a404-1533c11d51d5-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "8a133b77-d622-4a6a-be05-cd5baf2d1483",
+        "name": "Mận"
+      },
+      {
+        "ingredient_id": "5e4f6613-0bf1-4c87-acb7-5a3af0a1d76a",
+        "name": "Muối tôm Tây Ninh"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
+      "bữa trưa",
+      "bữa tối"
     ]
   },
   {
@@ -58273,7 +58281,7 @@
     "name": "Lựu",
     "description": "Giòn, mọng nước, vị chua nhẹ và ngọt thanh.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-d8da36b6-f5e9-4320-af87-934f756688e5-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -59282,7 +59290,7 @@
     "name": "Dứa",
     "description": "Ngọt, hơi chua, thơm mát, giàu enzym tiêu hóa.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-e433b242-c55b-480d-8f65-ee61cd77f90d-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -60536,75 +60544,6 @@
     ]
   },
   {
-    "id": "5e33c40b-cabf-47dd-805e-112819dbbd73",
-    "name": "Ổi",
-    "description": "Giòn, ngọt, giàu vitamin C.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "a802e4d1-4ee6-4524-a9c2-eb910e03d0ab",
-        "name": "Ổi"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
     "id": "9570c680-c855-42f5-81ab-e7c58d0d292a",
     "name": "Mực xào thập cẩm",
     "description": "Mực xào thập cẩm là món ăn ngon và bổ dưỡng với sự kết hợp hài hòa của mực tươi, rau củ giòn ngọt và hương vị đậm đà.",
@@ -60812,6 +60751,75 @@
     ],
     "recipe_type": [
       "món chính"
+    ],
+    "meal_type": [
+      "bữa tối",
+      "bữa trưa"
+    ]
+  },
+  {
+    "id": "5e33c40b-cabf-47dd-805e-112819dbbd73",
+    "name": "Ổi",
+    "description": "Giòn, ngọt, giàu vitamin C.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-5e33c40b-cabf-47dd-805e-112819dbbd73-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "a802e4d1-4ee6-4524-a9c2-eb910e03d0ab",
+        "name": "Ổi"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
     ],
     "meal_type": [
       "bữa tối",
@@ -63303,97 +63311,6 @@
     ]
   },
   {
-    "id": "20c16d8e-c512-4488-bd23-5d551232002a",
-    "name": "Hồng xiêm",
-    "description": "Ngọt, mềm, giàu chất xơ.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "b990cbfc-d214-4a18-aa5f-fc80b4c43d40",
-        "name": "Hồng xiêm"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
-        "name": "cao tuổi",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
-        "name": "cao tuổi",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ",
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "3b39a7a7-bec9-46c7-b8ed-9a089c9adb91",
     "name": "Cà ri đậu gà chay Ấn Độ ",
     "description": "Cà ri đậu gà chay đậm đà hương vị Ấn Độ, giàu protein, dễ làm tại nhà. Món ăn chay thơm ngon, bổ dưỡng cho bữa cơm gia đình.",
@@ -63788,6 +63705,90 @@
       "món chính"
     ],
     "meal_type": [
+      "bữa trưa",
+      "bữa tối"
+    ]
+  },
+  {
+    "id": "20c16d8e-c512-4488-bd23-5d551232002a",
+    "name": "Hồng xiêm",
+    "description": "Ngọt, mềm, giàu chất xơ.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-20c16d8e-c512-4488-bd23-5d551232002a-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "b990cbfc-d214-4a18-aa5f-fc80b4c43d40",
+        "name": "Hồng xiêm"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "8d18b2b2-3518-4d22-b4b1-1a9a26ad049d",
+        "name": "cao tuổi",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
       "bữa trưa",
       "bữa tối"
     ]
@@ -64949,7 +64950,7 @@
     "name": "Lê",
     "description": "Ngọt, mọng nước, giòn, thanh mát.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-56a3e3f6-4efa-4808-8e5f-dd7a830d53a7-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -68159,7 +68160,7 @@
     "name": "Dâu tây",
     "description": "Ngọt chua, mọng nước, hương thơm đặc trưng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-858a9350-447f-406e-a329-50f8e3b02dc7-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -69349,76 +69350,6 @@
     ]
   },
   {
-    "id": "ac04ece4-1bc6-440d-88d6-32b742b65d39",
-    "name": "Dưa lê",
-    "description": "Ngọt, mát, mọng nước, thịt mềm.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "074766de-a6d4-451e-9ee3-3152ea304357",
-        "name": "Dưa lê"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ",
-      "bữa trưa",
-      "bữa tối"
-    ]
-  },
-  {
     "id": "419a689b-cdc5-4700-abaf-10ac589215b1",
     "name": "Canh cải xanh nấu mọc",
     "description": "Canh cải xanh nấu mọc thanh mát, bổ dưỡng, dễ nấu, là món ăn quen thuộc trong bữa cơm gia đình Việt.",
@@ -69511,6 +69442,76 @@
       "món phụ"
     ],
     "meal_type": [
+      "bữa trưa",
+      "bữa tối"
+    ]
+  },
+  {
+    "id": "ac04ece4-1bc6-440d-88d6-32b742b65d39",
+    "name": "Dưa lê",
+    "description": "Ngọt, mát, mọng nước, thịt mềm.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-ac04ece4-1bc6-440d-88d6-32b742b65d39-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "074766de-a6d4-451e-9ee3-3152ea304357",
+        "name": "Dưa lê"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
       "bữa trưa",
       "bữa tối"
     ]
@@ -70527,7 +70528,7 @@
     "name": "Đào",
     "description": "Ngọt, mềm, thơm, thịt đỏ hoặc vàng.",
     "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
+      "https://storage.googleapis.com/abc_food/other/file-8ecde8e6-015c-4b55-9c83-eae337e8556d-1"
     ],
     "video_urls": [],
     "cost": 0.0,
@@ -74769,13 +74770,6 @@
         ]
       },
       {
-        "tag_id": "537bb643-2bea-419d-816f-899b1eee71a8",
-        "name": "chè",
-        "group": [
-          7
-        ]
-      },
-      {
         "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
         "name": "bữa phụ",
         "group": [
@@ -74826,7 +74820,6 @@
       }
     ],
     "method": [
-      "chè",
       "chè",
       "hầm"
     ],
@@ -90206,90 +90199,6 @@
     ]
   },
   {
-    "id": "31d097f5-9139-435c-847e-5ed427fccec1",
-    "name": "Kiwi",
-    "description": "Vị chua ngọt, giàu vitamin C, thịt mềm.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/other/file--1"
-    ],
-    "video_urls": [],
-    "cost": 0.0,
-    "cooking_time": 1,
-    "difficulty": "1",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": -1,
-    "ingredients": [
-      {
-        "ingredient_id": "cab863de-bae2-4cae-a135-35af7a5bdeb5",
-        "name": "Kiwi"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
-        "name": "trẻ em",
-        "group": [
-          5
-        ]
-      },
-      {
-        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
-        "name": "bữa phụ",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
-        "name": "món tráng miệng",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      }
-    ],
-    "method": [
-      "ăn sống"
-    ],
-    "recipe_type": [
-      "món tráng miệng"
-    ],
-    "meal_type": [
-      "bữa phụ",
-      "bữa tối",
-      "bữa trưa"
-    ]
-  },
-  {
     "id": "0e5db2bc-22ca-4384-9c82-ba09eb097ac4",
     "name": "Thịt ngâm nước mắm",
     "description": "Thịt ngâm nước mắm đậm đà, thơm ngon, là món ăn quen thuộc trong bữa cơm gia đình Việt. Món này có thể ăn kèm cơm trắng, bún hoặc dùng làm món nhắm.",
@@ -90409,6 +90318,90 @@
       "món chính"
     ],
     "meal_type": [
+      "bữa tối",
+      "bữa trưa"
+    ]
+  },
+  {
+    "id": "31d097f5-9139-435c-847e-5ed427fccec1",
+    "name": "Kiwi",
+    "description": "Vị chua ngọt, giàu vitamin C, thịt mềm.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/other/file-31d097f5-9139-435c-847e-5ed427fccec1-1"
+    ],
+    "video_urls": [],
+    "cost": 0.0,
+    "cooking_time": 1,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": -1,
+    "ingredients": [
+      {
+        "ingredient_id": "cab863de-bae2-4cae-a135-35af7a5bdeb5",
+        "name": "Kiwi"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "5b751cec-0d2b-457d-948a-419bae4ef618",
+        "name": "trẻ em",
+        "group": [
+          5
+        ]
+      },
+      {
+        "tag_id": "1a919d1b-00bc-4ee7-b153-47dc0ac295b3",
+        "name": "bữa phụ",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "7c88daa1-c1e4-471b-8f03-35ba28384a38",
+        "name": "món tráng miệng",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      }
+    ],
+    "method": [
+      "ăn sống"
+    ],
+    "recipe_type": [
+      "món tráng miệng"
+    ],
+    "meal_type": [
+      "bữa phụ",
       "bữa tối",
       "bữa trưa"
     ]
@@ -91019,13 +91012,6 @@
         ]
       },
       {
-        "tag_id": "037f9f0f-4ff2-44d9-9487-7b6c6415677d",
-        "name": "mang thai",
-        "group": [
-          5
-        ]
-      },
-      {
         "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
         "name": "bữa tối",
         "group": [
@@ -91100,13 +91086,6 @@
         "name": "bữa phụ",
         "group": [
           10
-        ]
-      },
-      {
-        "tag_id": "6d11dd52-21fd-4a3d-a7bc-6a4c79959b6b",
-        "name": "sau sinh",
-        "group": [
-          5
         ]
       },
       {
@@ -108341,6 +108320,123 @@
     ]
   },
   {
+    "id": "a5103956-d4df-4798-8593-43658230fb90",
+    "name": "Rau càng cua trộn ruốc xào và trứng luộc",
+    "description": "Món rau càng cua tươi mát kết hợp với vị đậm đà của ruốc xào và trứng luộc béo ngậy, tạo nên một món ăn thanh đạm và bổ dưỡng.",
+    "images": [
+      "https://storage.googleapis.com/abc_food/images/16892869.jpg"
+    ],
+    "video_urls": [],
+    "cost": 30000.0,
+    "cooking_time": 20,
+    "difficulty": "1",
+    "average_rating": 0.0,
+    "total_reviews": 0,
+    "view_count": 0,
+    "preping_time": 0,
+    "ingredients": [
+      {
+        "ingredient_id": "fc3fabc1-ad13-49ad-8cd6-c292eea7d806",
+        "name": "Rau càng cua"
+      },
+      {
+        "ingredient_id": "611de9a4-1cfc-4e1a-9cb1-36a9b97b830f",
+        "name": "Cà chua"
+      },
+      {
+        "ingredient_id": "447e179b-3fef-48b0-907d-f8cd9208cc05",
+        "name": "Tép khô"
+      },
+      {
+        "ingredient_id": "69e8aa99-1913-489b-b334-d7111be88527",
+        "name": "Trứng gà"
+      },
+      {
+        "ingredient_id": "a3900a0a-59d6-40ed-bb2a-c16842f58791",
+        "name": "Lạc rang"
+      },
+      {
+        "ingredient_id": "60f7afcb-3308-4b02-b806-b03b475dccdd",
+        "name": "Hành phi"
+      },
+      {
+        "ingredient_id": "e644eca5-e407-4cdd-ad17-25b3b3ac9f41",
+        "name": "Chanh"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": "7052a526-e4bb-4739-ad3a-bd4bb18ddf99",
+        "name": "trộn",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "6087b946-a62e-4414-9183-da567507c37c",
+        "name": "luộc",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
+        "name": "ăn sống",
+        "group": [
+          7
+        ]
+      },
+      {
+        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
+        "name": "món Việt",
+        "group": [
+          6
+        ]
+      },
+      {
+        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
+        "name": "bữa trưa",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
+        "name": "bữa tối",
+        "group": [
+          10
+        ]
+      },
+      {
+        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
+        "name": "món phụ",
+        "group": [
+          9
+        ]
+      },
+      {
+        "tag_id": "f0edd343-cf41-4174-944f-9f76478c0960",
+        "name": "xào",
+        "group": [
+          7
+        ]
+      }
+    ],
+    "method": [
+      "trộn",
+      "luộc",
+      "ăn sống",
+      "xào"
+    ],
+    "recipe_type": [
+      "món phụ"
+    ],
+    "meal_type": [
+      "bữa trưa",
+      "bữa tối"
+    ]
+  },
+  {
     "id": "bcd7e16d-e9ff-4656-8ef5-808e9f6b5e9e",
     "name": "Bì heo ngâm sả tắc",
     "description": "Bì heo giòn sần sật hòa quyện cùng vị chua thanh của tắc, thơm nồng của sả, cay the của ớt, là món ăn vặt hấp dẫn khó cưỡng.",
@@ -109101,123 +109197,6 @@
     "meal_type": [
       "bữa tối",
       "bữa trưa"
-    ]
-  },
-  {
-    "id": "a5103956-d4df-4798-8593-43658230fb90",
-    "name": "Rau càng cua trộn ruốc xào & trứng luộc",
-    "description": "Món rau càng cua tươi mát kết hợp với vị đậm đà của ruốc xào và trứng luộc béo ngậy, tạo nên một món ăn thanh đạm và bổ dưỡng.",
-    "images": [
-      "https://storage.googleapis.com/abc_food/images/16892869.jpg"
-    ],
-    "video_urls": [],
-    "cost": 30000.0,
-    "cooking_time": 20,
-    "difficulty": "2",
-    "average_rating": 0.0,
-    "total_reviews": 0,
-    "view_count": 0,
-    "preping_time": 0,
-    "ingredients": [
-      {
-        "ingredient_id": "fc3fabc1-ad13-49ad-8cd6-c292eea7d806",
-        "name": "Rau càng cua"
-      },
-      {
-        "ingredient_id": "611de9a4-1cfc-4e1a-9cb1-36a9b97b830f",
-        "name": "Cà chua"
-      },
-      {
-        "ingredient_id": "447e179b-3fef-48b0-907d-f8cd9208cc05",
-        "name": "Tép khô"
-      },
-      {
-        "ingredient_id": "69e8aa99-1913-489b-b334-d7111be88527",
-        "name": "Trứng gà"
-      },
-      {
-        "ingredient_id": "a3900a0a-59d6-40ed-bb2a-c16842f58791",
-        "name": "Lạc rang"
-      },
-      {
-        "ingredient_id": "60f7afcb-3308-4b02-b806-b03b475dccdd",
-        "name": "Hành phi"
-      },
-      {
-        "ingredient_id": "e644eca5-e407-4cdd-ad17-25b3b3ac9f41",
-        "name": "Chanh"
-      }
-    ],
-    "tags": [
-      {
-        "tag_id": "7052a526-e4bb-4739-ad3a-bd4bb18ddf99",
-        "name": "trộn",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "6087b946-a62e-4414-9183-da567507c37c",
-        "name": "luộc",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "1c5b7159-dd7d-4952-8bd6-c178defc5b97",
-        "name": "ăn sống",
-        "group": [
-          7
-        ]
-      },
-      {
-        "tag_id": "6e0ddda4-4035-4afc-af4e-16cac71f725f",
-        "name": "món Việt",
-        "group": [
-          6
-        ]
-      },
-      {
-        "tag_id": "1ef304a3-ec14-4346-b3d0-5fb35b3d3639",
-        "name": "bữa trưa",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "597728dd-1b58-42ed-bf2e-66ddf48ca490",
-        "name": "bữa tối",
-        "group": [
-          10
-        ]
-      },
-      {
-        "tag_id": "6530790b-b8b2-46a8-948c-691b217e1ad6",
-        "name": "món phụ",
-        "group": [
-          9
-        ]
-      },
-      {
-        "tag_id": "f0edd343-cf41-4174-944f-9f76478c0960",
-        "name": "xào",
-        "group": [
-          7
-        ]
-      }
-    ],
-    "method": [
-      "trộn",
-      "luộc",
-      "ăn sống",
-      "xào"
-    ],
-    "recipe_type": [
-      "món phụ"
-    ],
-    "meal_type": [
-      "bữa trưa",
-      "bữa tối"
     ]
   },
   {

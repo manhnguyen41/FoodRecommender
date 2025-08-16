@@ -62,6 +62,7 @@ API sẽ chạy tại: **http://localhost:5000**
 
 | Method | Endpoint | Mô tả |
 |--------|----------|-------|
+| POST | `/reinit` | Khởi tạo lại hệ thống (dữ liệu + ma trận tương đồng) |
 | POST | `/api/daily-meal` | Tạo thực đơn cho 1 ngày |
 | POST | `/api/weekly-meal` | Tạo thực đơn cho 1 tuần |
 | POST | `/api/replace-recipe` | Thay thế món ăn |

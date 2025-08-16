@@ -15036,13 +15036,6 @@
     "category": "2"
   },
   {
-    "ingredient_id": "66bc71f6-92f5-43e8-afae-cfe2ee14986a",
-    "name": "Thịt bò",
-    "cost": 0.0,
-    "allergen_flag": false,
-    "category": "1"
-  },
-  {
     "ingredient_id": "2d4ac9dd-128d-4ccc-bea9-b16c422dc4f9",
     "name": "Rau muống bào",
     "cost": 0.0,
@@ -16749,5 +16742,61 @@
     "cost": 0.0,
     "allergen_flag": false,
     "category": "10"
+  },
+  {
+    "ingredient_id": "0d99bb8d-5ad3-46be-b51a-f44fe4c99686",
+    "name": "Bột bí đỏ",
+    "cost": 0.0,
+    "allergen_flag": false,
+    "category": "10"
+  },
+  {
+    "ingredient_id": "c5e3272e-44f5-4a42-bf09-95b359376676",
+    "name": "Dầu hạnh nhân",
+    "cost": 0.0,
+    "allergen_flag": false,
+    "category": "10"
+  },
+  {
+    "ingredient_id": "951b30c8-2ba2-40cd-86da-a1bd956114a1",
+    "name": "Dầu hạnh nhân",
+    "cost": 25000.0,
+    "allergen_flag": false,
+    "category": "10"
+  },
+  {
+    "ingredient_id": "0406e41d-cfd0-4aa7-b7cb-b3b35895de66",
+    "name": "Hạt hạnh nhân",
+    "cost": 20000.0,
+    "allergen_flag": false,
+    "category": "10"
+  },
+  {
+    "ingredient_id": "5d47cfa7-fa7b-436b-9a44-efa92e04a8e7",
+    "name": "Hạt chia",
+    "cost": 20000.0,
+    "allergen_flag": false,
+    "category": "10"
+  },
+  {
+    "ingredient_id": "2cf79a19-0352-45bf-91c7-593d0adac6c4",
+    "name": "Bột báng",
+    "cost": 20000.0,
+    "allergen_flag": false,
+    "category": "10"
+  },
+  {
+    "ingredient_id": "b503fd61-cb16-453a-877e-1133230e0f18",
+    "name": "Hạt é",
+    "cost": 20000.0,
+    "allergen_flag": false,
+    "category": "10"
+  },
+  {
+    "ingredient_id": "66bc71f6-92f5-43e8-afae-cfe2ee14986a",
+    "name": "Thịt bò",
+    "cost": 300000.0,
+    "allergen_flag": false,
+    "category": "1"
   }
 ]

@@ -20,6 +20,7 @@ from similarity import (
     create_ingredient_similarity_matrix,
     create_tag_similarity_matrix
 )
+from get_data import reinit_data
 
 app = Flask(__name__)
 CORS(app)
@@ -438,6 +439,64 @@ def replace_recipe():
         return jsonify({
             "success": False,
             "error": str(e)
+        }), 500
+
+
+@app.route('/reinit', methods=['POST'])
+def reinit_system():
+    """API endpoint để khởi tạo lại toàn bộ hệ thống"""
+    try:
+        print("🔄 Bắt đầu quá trình reinit hệ thống...")
+        
+        # Bước 1: Khởi tạo lại dữ liệu từ database
+        print("📊 Bước 1: Khởi tạo lại dữ liệu...")
+        if not reinit_data():
+            return jsonify({
+                "success": False,
+                "error": "Không thể khởi tạo lại dữ liệu từ database"
+            }), 500
+        
+        # Bước 2: Tạo lại các ma trận tương đồng với use_cache=False
+        print("🔍 Bước 2: Tạo lại các ma trận tương đồng...")
+        global recipe_sim_matrix, ingredient_sim_matrix, tag_sim_matrix
+        global ingredient_name_to_id, tag_name_to_id
+        global all_ingredient_names, all_tag_names, all_ingredient_ids, all_tag_ids
+        
+        # Load lại data mới
+        df, recipes_new = load_data("data/recipes.json")
+        _, ingredients_new = load_data("data/ingredients.json") 
+        _, tags_new = load_data("data/tags.json")
+        
+        # Cập nhật global variables
+        recipes[:] = recipes_new
+        ingredients[:] = ingredients_new
+        tags[:] = tags_new
+        
+        # Tạo lại similarity matrices với use_cache=False
+        recipe_sim_matrix, rec_name_to_rec_id = create_recipe_similarity_matrix(df, recipes, model, tokenizer, use_cache=False)
+        ingredient_sim_matrix, ingredient_name_to_id, all_ingredient_names, all_ingredient_ids = create_ingredient_similarity_matrix(ingredients, model, tokenizer, use_cache=False)
+        tag_sim_matrix, tag_name_to_id, all_tag_names, all_tag_ids = create_tag_similarity_matrix(tags, model, tokenizer, use_cache=False)
+        
+        print("✅ Đã tạo lại thành công các ma trận tương đồng!")
+        
+        return jsonify({
+            "success": True,
+            "message": "Hệ thống đã được khởi tạo lại thành công",
+            "details": {
+                "data_files_updated": ["recipes.json", "ingredients.json", "tags.json"],
+                "matrices_regenerated": ["similarity_matrix.pkl", "ingredient_similarity_matrix.pkl", "tag_similarity_matrix.pkl"],
+                "system_status": "ready",
+                "recipes_count": len(recipes),
+                "ingredients_count": len(ingredients),
+                "tags_count": len(tags)
+            }
+        }), 200
+            
+    except Exception as e:
+        print(f"❌ Lỗi trong quá trình reinit: {str(e)}")
+        return jsonify({
+            "success": False,
+            "error": f"Lỗi trong quá trình reinit: {str(e)}"
         }), 500
 
 
